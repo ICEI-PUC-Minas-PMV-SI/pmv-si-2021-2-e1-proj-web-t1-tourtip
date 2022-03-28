@@ -13,11 +13,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Alexandre Guzmán Siácara
 * Ana Paula Sena
 * Arthur Ramos Garcia
-* Gleyvison Antônio Anselmo
-* Henrique de Paula Lima
+* Gleyvison Antônio Anselmo* Henrique de Paula Lima
 * Heron Da Silva Cendrethe
 * Igor Moraes Torres
-* Lucas Vinicius Pereira
+* Lucas Vinicius Oliveira Mendes
 
 ## Orientador
 
