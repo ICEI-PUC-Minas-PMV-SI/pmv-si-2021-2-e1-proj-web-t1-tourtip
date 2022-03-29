@@ -4,9 +4,13 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
+TourTip
+
 Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
+
+<img src="https://i.ibb.co/JRT2QqS/Brand.jpg" width="500">
 
 O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
