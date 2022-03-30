@@ -16,6 +16,8 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
+O conteúdo do site visa trabalhar com espaços de lazer e entretenimento que proporcionaram agilidade para o usuário em localizar locais como: cinemas, restaurantes, museus, parques públicos e outros, facilitando assim a sua busca. A criação da página terá também a preocupação em ter uma interface simples, objetiva e interativa sem complicação e com uma boa visibilidade.
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
