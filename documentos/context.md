@@ -27,6 +27,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
+O site TourTip visa informar para seu usuário conteúdo sobre entretenimento, de maneira simplificada, com um layout de boa visibilidade, com dicas de várias opções de lazer (cinema, gastronomia, museus, passeios e outros).
+
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
