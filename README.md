@@ -6,7 +6,9 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Projeto TourTip é uma plataforma informativa, tendo como conteúdo principal descrições e locais turísticos das grande metrópoles, facilitando o período de visitas dos turistas durante sua viagem.
+
+O TourTip visa entregar aos usuários uma experiência agradável e simplificada ao buscar informações, atuando tanto como uma ajuda de primeira instância ao procurar lugares para visitar, quanto como um bom centro de opções para planejamento de viagens.
 
 ## Integrantes
 
