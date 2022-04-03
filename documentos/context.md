@@ -1,5 +1,5 @@
 # Introdução
-
+Este projeto tem o intuito de ajudar pessoas que buscam dicas de passeios, restaurantes, museus, entre outros fatores de uma viagem. Nosso intuito além de aprender um pouco mais sobre software é mostrar locais aconchegantes não só para turistas, mas como também para os próprios moradores da cidade que por vezes não conhecem na sua totalidade as belezas e diversões que sua cidade pode ter. 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
