@@ -3,11 +3,11 @@ Este projeto tem o intuito de ajudar pessoas que buscam dicas de passeios, resta
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A informação e os guias turísticos são essenciais para turistas que viajam em busca de conhecer um novo destino. Uma vez que desconhecido o local, o percurso turístico pode tornar-se muito maior e mais demorado do que o que seria necessário. O ideal é ter um roteiro e se preparar para cada detalhe. Planejar o objetivo da viagem, definir os melhores destinos dos passeios, são pontos muito importantes para garantir a melhor experiência durante a estadia.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Porem mesmo preparando o roteiro com antecedência, ainda sim podemos nos deparar com inúmeros imprevistos devido a falta de informação sobre os pontos turísticos. Horário de funcionamento, localidade, a facilidade de acesso através de meios de transporte e ate as atracões do próprio local, são alguns destes problemas que pode tornar a viagem uma grande dor de cabeça.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Visualizar o feedback e avaliação de outros visitantes, fazer uma pesquisa previa sobre determinado local que tenha o mesmo perfil de destino do turista, é crucial para garantir a segurança do plano da viagem, para que tudo saia como planejado. E muitas vezes, é possível encontrar pontos interessantes poucos conhecidos, podendo servir como alternativa em caso de contratempos.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
