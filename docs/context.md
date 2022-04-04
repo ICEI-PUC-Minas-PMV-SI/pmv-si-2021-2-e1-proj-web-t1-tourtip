@@ -38,10 +38,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Todos turistas podem se beneficiar das funcionalidades da página Web neste trabalho, essa aplicação foi desenvolvida com objetivo de auxiliar os turistas se informarem melhor sobre as atrações do local onde se encontram.
+Para acessar este site, não é exigido nenhum requisito. Apenas que o usuário esteja conectado à internet em qualquer dispositivo com acesso à rede. 
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
