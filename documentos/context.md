@@ -16,11 +16,11 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-O conteúdo do site visa trabalhar com espaços de lazer e entretenimento que proporcionaram agilidade para o usuário em localizar locais como: cinemas, restaurantes, museus, parques públicos e outros, facilitando assim a sua busca. A criação da página terá também a preocupação em ter uma interface simples, objetiva e interativa sem complicação e com uma boa visibilidade.
+O conteúdo do site visa trabalhar com informações acerca de espaços de lazer e entretenimento de forma ágil e precisa para que o usuário encontre lugares e eventos como: cinemas, restaurantes, museus, parques públicos e outras formas de entretenimento disponíveis em sua região. A página terá também uma interface simples, objetiva, interativa e com boa visibilidade.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Preocupar em conferir a veracidade das informações disponibilizadas pelo site para não perjurar a credibilidade da página e não causar desinformações. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Ajudar na divulgação de eventos gratuitos de instituições públicas e privadas, ligadas ao turismo.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
