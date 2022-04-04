@@ -38,7 +38,6 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Todos turistas podem se beneficiar das funcionalidades da página Web neste trabalho, essa aplicação foi desenvolvida com objetivo de auxiliar os turistas se informarem melhor sobre as atrações do local onde se encontram.
-Para acessar este site, não é exigido nenhum requisito. Apenas que o usuário esteja conectado à internet em qualquer dispositivo com acesso à rede. 
+Todos turistas podem se beneficiar das funcionalidades da página Web neste trabalho. Para acessar este site, não é exigido nenhum requisito. Apenas que o usuário esteja conectado à internet em qualquer dispositivo. 
 
 >
