@@ -41,8 +41,4 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 Todos turistas podem se beneficiar das funcionalidades da página Web neste trabalho, essa aplicação foi desenvolvida com objetivo de auxiliar os turistas se informarem melhor sobre as atrações do local onde se encontram.
 Para acessar este site, não é exigido nenhum requisito. Apenas que o usuário esteja conectado à internet em qualquer dispositivo com acesso à rede. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+>
