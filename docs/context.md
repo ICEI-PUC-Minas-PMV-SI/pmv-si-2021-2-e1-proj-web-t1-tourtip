@@ -14,11 +14,11 @@ Visualizar o feedback e avaliação de outros visitantes, fazer uma pesquisa pre
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivo Principal:
+## Objetivo Principal
 
 Desenvolver um site, com objetivo de disponibilizar informações sobre espaços de lazer e entretenimento, com a finalidade de oferecer para os usuários sugestões de lugares como: cinemas, teatros, restaurantes, museus, parques públicos e outros.
 
-## Objetivos Específicos:
+## Objetivos Específicos
  
 •	Identificar e disponibilizar os principais espaços de lazer públicos e privados da região;
 
