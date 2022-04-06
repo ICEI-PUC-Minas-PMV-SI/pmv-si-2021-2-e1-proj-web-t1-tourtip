@@ -21,7 +21,9 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
 ## Objetivos Específicos:
  
 •	Identificar e disponibilizar os principais espaços de lazer públicos e privados da região;
+
 •	Identificar as páginas dos espaços de lazer e entretenimento e disponibilizar no site TourTip, para o usuário verificar as informações do local;
+
 •	Informar os lugares de lazer gratuitos para o usuário do site, como Parques Públicos.
 
 ## Justificativa
