@@ -14,16 +14,15 @@ Visualizar o feedback e avaliação de outros visitantes, fazer uma pesquisa pre
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+## Objetivo Principal:
 
-O conteúdo do site visa trabalhar com informações acerca de espaços de lazer e entretenimento de forma ágil e precisa para que o usuário encontre lugares e eventos como: cinemas, restaurantes, museus, parques públicos e outras formas de entretenimento disponíveis em sua região. A página terá também uma interface simples, objetiva, interativa e com boa visibilidade.
+Desenvolver um site, com objetivo de disponibilizar informações sobre espaços de lazer e entretenimento, com a finalidade de oferecer para os usuários sugestões de lugares como: cinemas, teatros, restaurantes, museus, parques públicos e outros.
 
-Preocupar em conferir a veracidade das informações disponibilizadas pelo site para não perjurar a credibilidade da página e não causar desinformações. 
-
-Ajudar na divulgação de eventos gratuitos de instituições públicas e privadas, ligadas ao turismo.
+## Objetivos Específicos:
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+•	Identificar e disponibilizar os principais espaços de lazer públicos e privados da região;
+•	Identificar as páginas dos espaços de lazer e entretenimento e disponibilizar no site TourTip, para o usuário verificar as informações do local;
+•	Informar os lugares de lazer gratuitos para o usuário do site, como Parques Públicos.
 
 ## Justificativa
 
