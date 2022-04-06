@@ -28,7 +28,7 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
 
 ## Justificativa
 
-A proposta deste projeto é disponibilizar para o usuário do site TouTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que usuário deseja conhecer. De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares. Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. 
+A proposta deste projeto é disponibilizar para o usuário do site TourTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que usuário deseja conhecer. De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares. Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. 
 
 Neste caso, a proposta desta página da web vai facilitar para o turista que depois de passar por uma pandemia, aonde havia uma insegurança enorme de sair de casa, vai preencher seu anseio de viajar e encontrar os locais para passeio e diversão.
 
