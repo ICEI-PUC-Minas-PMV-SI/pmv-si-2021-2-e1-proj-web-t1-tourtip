@@ -28,14 +28,11 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
 
 ## Justificativa
 
-O site TourTip visa informar para seu usuário conteúdo sobre entretenimento, de maneira simplificada, com um layout de boa visibilidade, com dicas de várias opções de lazer (cinema, gastronomia, museus, passeios e outros).
+A proposta deste projeto é disponibilizar para o usuário do site TouTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que usuário deseja conhecer. De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares. Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. 
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Neste caso, a proposta desta página da web vai facilitar para o turista que depois de passar por uma pandemia, aonde havia uma insegurança enorme de sair de casa, vai preencher seu anseio de viajar e encontrar os locais para passeio e diversão.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Portanto, o site TourTip vai proporcionar uma página com várias dicas de lazer e entretenimento, que antes estavam fechados ou com quantidade restrita de pessoas e que neste momento, a tendência é de crescimento.
 
 ## Público-Alvo
 
