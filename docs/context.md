@@ -22,7 +22,7 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
  
 •	Identificar e disponibilizar os principais espaços de lazer públicos e privados da região;
 
-•	Identificar as páginas dos espaços de lazer e entretenimento e disponibilizar no site TourTip, para o usuário verificar as informações do local;
+•	Identificar as páginas e disponibilizar no site TourTip, para o usuário verificar quais são as informações especificas do local escolhido;
 
 •	Informar os lugares de lazer gratuitos para o usuário do site, como Parques Públicos.
 
