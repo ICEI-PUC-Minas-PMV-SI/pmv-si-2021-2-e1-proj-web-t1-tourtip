@@ -1,4 +1,4 @@
-# Introduçãos
+# Introdução
 Hoje em dia, o mercado de turismo no Brasil movimenta cerca de 9,6 bilhões de reais ao mês. Esse faturamento vem retomando aos poucos os picos que haviam no período pré pandemia. No entanto, um país com tamanha riqueza natural e histórica tem espaço para crescer muito mais, isso é nítido ao analisarmos a relação da OMT (Organização Mundial do Turismo) de 2017, onde mostra os países que mais arrecadam dinheiro com o turismo no mundo, lista essa onde o Brasil não se encontra nem entre os 10 primeiros. 
 Neste mesmo contexto, é notório que o turismo estrangeiro não é o forte deste país, onde se destaca o turismo doméstico, ou seja, o país é de tamanha extensão a “convidar” os próprios brasileiros a serem turistas em sua própria terra. Fato este que deu abertura para a criação deste site. 
 
