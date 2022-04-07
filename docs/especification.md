@@ -48,7 +48,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Possuir dados estáticos que não necessitem de interações constantes com bancos de dados para serem acessados | ALTA | 
 |RF-002| Possuir fácil acesso a links com localizações dos locais | MÉDIA |
-|RF-003| Possuir uma função de pesquisa por palavras chaves de conteúdos da página | MÉDIA |
+|RF-003| Possuir uma função de pesquisa por palavras-chaves de conteúdos da página | MÉDIA |
 |RF-004| Possuir opção de expandir as informações para maiores detalhes | MÉDIA |
 
 
@@ -57,7 +57,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Possuir informaçãoes diretas e simples de serem entendidas pelo usuário | ALTA |
-|RNF-002| Possuir elementos de UI|UX para facilitar a navegação do usuário |  BAIXA | 
+|RNF-002| Possuir elementos de UI/UX para facilitar a navegação do usuário | BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
