@@ -19,10 +19,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Eu, Felipe Vicente
-como Turista e Estudante
-  | Desejo conhecer melhor o local onde irei viajar e ter estas informações em apenas um site.  | Para melhorar o meu planejamento de viajem.|
-|Eu, Sandra de Paula como Professora de História|Eu, Sandra de Paula como Professora de História	Desejo um site prático e fácil, que reúne todas a informações turísticas relevantes sobre o local.| Para pesquisar sobre a viajem sem necessariamente usar aplicativos ou ficar presa ao smartphone.|Eu, Valentina Costa como Música|Desejo saber o local que possui música ao vivo. Em apenas um site com informações completas|Para melhorar o meu planejamento de viajem|
+|Eu, Felipe Vicente como Turista e Estudante.| Desejo conhecer melhor o local onde irei viajar e ter estas informações em apenas um site.  | Para melhorar o meu planejamento de viajem.|
+|Eu, Sandra de Paula como Professora de História.|Eu, Sandra de Paula como Professora de História	Desejo um site prático e fácil, que reúne todas a informações turísticas relevantes sobre o local.| Para pesquisar sobre a viajem sem necessariamente usar aplicativos ou ficar presa ao smartphone.|Eu, Valentina Costa como Música.|Desejo saber o local que possui música ao vivo. Em apenas um site com informações completas|Para melhorar o meu planejamento de viajem|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
