@@ -9,7 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |DESCRIÇÃO| MOTIVAÇÃO |FRUSTRAÇÃO|
 |--------------------|------------------------------------|----------------------------------------|
 |Felipe Vicente, 21 anos e estudante de psicologia.| 	Disfrutar o máximo possível de sua viajem de férias e Conhecer bares e boates da região | Dificuldade em encontrar todas as informações sobre o local de sua viajem em um site só.|
-|Sandra de Paula, 50 anos e professora de História| Aproveitar sua folga no trabalho para realizar uma viajem. Focada em conhecer monumentos históricos e museus da região. |	Tem dificuldade com download e uso de aplicativos|
+|Sandra De Paula, 50 anos e professora de História| Aproveitar sua folga no trabalho para realizar uma viajem. Focada em conhecer monumentos históricos e museus da região. |	Tem dificuldade com download e uso de aplicativos|
 |Valentina Costa, 25 anos e Música |Encontrar bares e shows que contenham música ao vivo. E verificar custo x benefício das atrações. O orçamento está limitado.|	Encontra informações, mas sem valores monetários|
 
 
