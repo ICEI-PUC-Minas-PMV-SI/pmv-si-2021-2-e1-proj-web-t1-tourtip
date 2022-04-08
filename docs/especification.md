@@ -21,7 +21,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Eu, Felipe Vicente como Turista e Estudante.| Quero conhecer melhor o local onde irei viajar e ter estas informações em apenas um site.  | Para melhorar o meu planejamento de viajem.|
-|Eu, Sandra de Paula como Professora de História.|Quero um site prático e fácil| Para pesquisar sobre a viajem sem necessariamente usar aplicativos ou ficar presa ao smartphone.
+|Eu, Sandra de Paula como Professora de História.|Quero um site prático e fácil| Para pesquisar sobre a viajem, sem necessariamente usar aplicativos ou ficar presa ao smartphone.
 |Eu, Valentina Costa como Música.|Quero saber o local que possui música ao vivo. Em apenas um site com informações completas|Para melhorar o meu planejamento de viajem.|
 
 ## Requisitos
