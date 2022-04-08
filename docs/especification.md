@@ -6,7 +6,16 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## Personas
+
+|DESCRIÇÃO| MOTIVAÇÃO |FRUSTRAÇÃO|
+|--------------------|------------------------------------|----------------------------------------|
+|Nome: Felipe Vicente
+Idade: 21
+Ocupação: Estudante de psicologia| 	Disfrutar o máximo possível de sua viajem de férias e Conhecer bares e boates da região | •	Dificuldade em encontrar todas as informações sobre o local de sua viajem em um site só.|
+|Proprietária de academia       | Utilizar o aplicativo para otimizar o tempo dos professores e alunos da academia.| Gasto desnecessário em papel e alunas perdendo a ficha de treino de forma recorrente.|
+|Aluna da academia | Utilizar o aplicativo para facilitar o treino na academia.| Perde a ficha de treinos ou estraga a ficha com suor|
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
