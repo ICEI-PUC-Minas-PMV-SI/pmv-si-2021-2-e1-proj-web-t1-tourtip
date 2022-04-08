@@ -10,7 +10,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |DESCRIÇÃO| MOTIVAÇÃO |FRUSTRAÇÃO|
 |--------------------|------------------------------------|----------------------------------------|
-|Nome: Felipe Vicente     Idade: 21 Ocupação:     Estudante de psicologia| 	Disfrutar o máximo possível de sua viajem de férias e Conhecer bares e boates da região | •	Dificuldade em encontrar todas as informações sobre o local de sua viajem em um site só.|
+|Nome: Felipe Vicente     
+Idade: 21 Ocupação:     Estudante de psicologia| 	Disfrutar o máximo possível de sua viajem de férias e Conhecer bares e boates da região | •	Dificuldade em encontrar todas as informações sobre o local de sua viajem em um site só.|
 |Proprietária de academia       | Utilizar o aplicativo para otimizar o tempo dos professores e alunos da academia.| Gasto desnecessário em papel e alunas perdendo a ficha de treino de forma recorrente.|
 |Aluna da academia | Utilizar o aplicativo para facilitar o treino na academia.| Perde a ficha de treinos ou estraga a ficha com suor|
 
