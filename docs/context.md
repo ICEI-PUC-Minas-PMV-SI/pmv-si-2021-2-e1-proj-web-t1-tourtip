@@ -3,7 +3,7 @@ Hoje em dia, o mercado de turismo no Brasil movimenta cerca de 9,6 bilhões de r
 Neste mesmo contexto, é notório que o turismo estrangeiro não é o forte deste país, onde se destaca o turismo doméstico, ou seja, o país é de tamanha extensão a “convidar” os próprios brasileiros a serem turistas em sua própria terra. Fato este que deu abertura para a criação deste site. 
 
 ## Problema
-Um grande problema que turistas e visitantes possuem ao conhecer uma determinada região, é obter a informação sobre pontos turísticos locais que valham a pena visitar. O conhecimento acerca de horários de funcionamento, localidade, atracões, comentários e avaliações, é limitado quando não se possui uma referência para consultar e definir qual será o local ideal, seja para montar um roteiro de viagem ou até para visitar no próprio momento.
+Um grande problema que turistas e visitantes possuem ao conhecer uma determinada região, é obter a informação sobre pontos turísticos locais que valham a pena visitar. O conhecimento fica limitado sem uma referência para consultar e definir qual será o local ideal, seja para montar um roteiro de viagem ou como por exemplo saber qual restaurante, parque, cinema e outros lugares que poderia visitar. E como ele irá investigar sobre os horários de funcionamentos, localidades, atrações, comentários e avaliações? Essa tarefa fica ainda mais difícil, principalmente depois que passamos por um grande período de isolamento e os locais estão reagindo e novos surgindo.
 
 ## Objetivo Principal
 
