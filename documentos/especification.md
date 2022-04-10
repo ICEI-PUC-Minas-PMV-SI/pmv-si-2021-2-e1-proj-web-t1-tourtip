@@ -51,8 +51,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|02| O projeto deve ser entregue por etapas  |
+|03|  O  projeto não usará  banco de dados |
+|04| O projeto não  deve possuir cadastr de usuários |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
