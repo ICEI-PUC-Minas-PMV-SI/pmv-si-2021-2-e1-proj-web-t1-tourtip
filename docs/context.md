@@ -19,11 +19,11 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
 
 ## Justificativa
 
-A proposta deste projeto é disponibilizar para o usuário do site TourTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que usuário deseja conhecer. De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares. Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. 
+A proposta deste projeto é disponibilizar para o usuário do site TourTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que o turista deseja conhecer.
 
-Neste caso, a proposta desta página da web vai facilitar para o turista que depois de passar por uma pandemia, aonde havia uma insegurança enorme de sair de casa, vai preencher seu anseio de viajar e encontrar os locais para passeio e diversão.
+De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares.
 
-Portanto, o site TourTip vai proporcionar uma página com várias dicas de lazer e entretenimento, que antes estavam fechados ou com quantidade restrita de pessoas e que neste momento, a tendência é de crescimento.
+Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. Segundo artigo da Agência de Viagem Lufthansa City Center, as viagens de experiência são aquelas em que os viajantes têm a oportunidade de se conectar de forma autêntica com a história, os costumes e/ou as pessoas dos destinos pelos quais passam.
 
 ## Público-Alvo
 
