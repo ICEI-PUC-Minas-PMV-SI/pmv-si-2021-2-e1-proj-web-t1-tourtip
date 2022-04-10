@@ -53,7 +53,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| O projeto deve ser entregue por etapas  |
 |03|  O  projeto não usará  banco de dados |
-|04| O projeto não  deve possuir cadastrp de usuários |
+|04| O projeto não  deve possuir cadastro de usuários |
+|05| A equipe deve solucionar os erros encontrados pelo orientador |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
