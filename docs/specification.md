@@ -6,12 +6,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|DESCRIÇÃO| MOTIVAÇÃO |FRUSTRAÇÃO|
-|--------------------|------------------------------------|----------------------------------------|
-|Felipe Vicente, 21 anos e estudante de psicologia.| 	Disfrutar o máximo possível de sua viajem de férias e Conhecer bares e boates da região | Dificuldade em encontrar todas as informações sobre o local de sua viajem em um site só.|
-|Sandra De Paula, 50 anos e professora de História| Aproveitar sua folga no trabalho para realizar uma viajem. Focada em conhecer monumentos históricos e museus da região. |	Tem dificuldade com download e uso de aplicativos.|
-|Valentina Costa, 25 anos e Música |Encontrar bares e shows que contenham música ao vivo. E verificar custo x benefício das atrações. O orçamento está limitado.|	Encontra informações, mas sem valores monetários.|
+1.	Felipe Vicente, 21 anos é estudante de psicologia e gosta de disfrutar o máximo possível de sua viajem de férias e conhecer bares e boates da região e tem dificuldade em encontrar todas as informações, sobre o local de sua viajem em um site. Felipe: Eu gostaria de ter essas informações em apenas um site, para melhorar o meu planejamento de viajem.
 
+2.	Sandra de Paula, 50 anos é professora de História e gosta de aproveitar a folga no trabalho para realizar viajem. Focada em conhecer monumentos históricos e museus da região e tem dificuldade com download e uso de aplicativos. Sandra: Quero um site prático e fácil, para pesquisar sobre a viajem, sem necessariamente usar aplicativos ou ficar presa ao smartphone.
+
+3.	Valentina Costa, 25 anos trabalha com música e gosta de encontrar bares com música ao vivo e shows e quando vai pesquisar ela verificar o custo x benefício das atrações. Valentina: Quero saber o local que possui música ao vivo em apenas um site com informações completas, para melhorar o meu planejamento de viajem.
 
 ## Histórias de Usuários
 
