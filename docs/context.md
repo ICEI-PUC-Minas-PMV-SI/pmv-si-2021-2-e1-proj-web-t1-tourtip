@@ -7,6 +7,8 @@ Um grande problema que turistas e visitantes possuem ao conhecer uma determinada
 
 ## Objetivo Principal
 
+<div align="justify">
+
 Desenvolver um site, com objetivo de disponibilizar informações sobre espaços de lazer e entretenimento, com a finalidade de oferecer para os usuários sugestões de lugares como: cinemas, teatros, restaurantes, museus, parques públicos e outros.
 
 ## Objetivos Específicos
