@@ -1,10 +1,19 @@
 # Introdução
-Hoje em dia, o mercado de turismo no Brasil movimenta cerca de 9,6 bilhões de reais ao mês. Esse faturamento vem retomando aos poucos os picos que haviam no período pré pandemia. No entanto, um país com tamanha riqueza natural e histórica tem espaço para crescer muito mais, isso é nítido ao analisarmos a relação da OMT (Organização Mundial do Turismo) de 2017, onde mostra os países que mais arrecadam dinheiro com o turismo no mundo, lista essa onde o Brasil não se encontra nem entre os 10 primeiros. 
-Neste mesmo contexto, é notório que o turismo estrangeiro não é o forte deste país, onde se destaca o turismo doméstico, ou seja, o país é de tamanha extensão a “convidar” os próprios brasileiros a serem turistas em sua própria terra. Fato este que deu abertura para a criação deste site. 
+
+<div align="justify">
+ 
+Hoje em dia, o mercado de turismo no Brasil movimenta cerca de 9,6 bilhões de reais ao mês. Esse faturamento vem retomando aos poucos os picos que haviam no período pré pandemia. No entanto, um país com tamanha riqueza natural e histórica tem espaço para crescer muito mais, isso é nítido ao analisarmos a relação da OMT (Organização Mundial do Turismo) de 2017, onde mostra os países que mais arrecadam dinheiro com o turismo no mundo, lista essa onde o Brasil não se encontra nem entre os 10 primeiros. Neste mesmo contexto, é notório que o turismo estrangeiro não é o forte deste país, onde se destaca o turismo doméstico, ou seja, o país é de tamanha extensão a “convidar” os próprios brasileiros a serem turistas em sua própria terra. Fato este que deu abertura para a criação deste site.
+ 
+ </div>
 
 ## Problema
-Um grande problema que turistas e visitantes possuem ao conhecer uma determinada região, é obter a informação sobre pontos turísticos locais que valham a pena visitar. O conhecimento fica limitado sem uma referência para consultar e definir qual será o local ideal, seja para montar um roteiro de viagem ou como por exemplo saber qual restaurante, parque, cinema e outros lugares que poderia visitar. E como ele irá investigar sobre os horários de funcionamentos, localidades, atrações, comentários e avaliações? Essa tarefa fica ainda mais difícil, principalmente depois que passamos por um grande período de isolamento e os locais estão reagindo e novos surgindo.
 
+<div align="justify">
+ 
+O Turista/Usuário ao procurar na internet sobre pontos turísticos dos locais que deseja visitar, poderá encontrar dificuldades na busca das informações ou até mesmo não localizar sugestões sobre espaços que valem a pena conhecer. A falta de informação ou desinformação a respeito de um lugar, faz com que um possível turista desista ou desencoraje de conhecê-la. Neste caso, o usuário, fica limitado, sem uma referência de um site para consultar e definir qual local ideal, seja para montar um roteiro de viagem ou como por exemplo saber qual restaurante, parque, cinema e outros, que deseja incluir no seu passeio. O ideal seria um site com essas informações sobre o turismo incluindo os horários de funcionamentos, localidades, atrações, sugestões, comentários e avaliações, para ser uma referência para os Turistas/Usuários.
+
+  </div>
+  
 ## Objetivo Principal
 
 <div align="justify">
