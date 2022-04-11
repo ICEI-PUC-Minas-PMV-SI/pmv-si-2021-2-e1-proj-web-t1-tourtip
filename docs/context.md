@@ -11,6 +11,8 @@ Um grande problema que turistas e visitantes possuem ao conhecer uma determinada
 
 Desenvolver um site, com objetivo de disponibilizar informações sobre espaços de lazer e entretenimento, com a finalidade de oferecer para os usuários sugestões de lugares como: cinemas, teatros, restaurantes, museus, parques públicos e outros.
 
+ </div>
+ 
 ## Objetivos Específicos
  
 •	Identificar e disponibilizar os principais espaços de lazer públicos e privados da região;
