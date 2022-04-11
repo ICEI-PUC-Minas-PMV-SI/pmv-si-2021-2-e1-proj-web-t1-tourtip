@@ -6,11 +6,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+<div align="justify">
+
 1.	Felipe Vicente, 21 anos é estudante de psicologia e gosta de disfrutar o máximo possível de sua viajem de férias e conhecer bares e boates da região e tem dificuldade em encontrar todas as informações, sobre o local de sua viajem em um site. Felipe: Eu gostaria de ter essas informações em apenas um site, para melhorar o meu planejamento de viajem.
 
 2.	Sandra de Paula, 50 anos é professora de História e gosta de aproveitar a folga no trabalho para realizar viajem. Focada em conhecer monumentos históricos e museus da região e tem dificuldade com download e uso de aplicativos. Sandra: Quero um site prático e fácil, para pesquisar sobre a viajem, sem necessariamente usar aplicativos ou ficar presa ao smartphone.
 
 3.	Valentina Costa, 25 anos trabalha com música e gosta de encontrar bares com música ao vivo e shows e quando vai pesquisar ela verificar o custo x benefício das atrações. Valentina: Quero saber o local que possui música ao vivo em apenas um site com informações completas, para melhorar o meu planejamento de viajem.
+  
+  </div>
 
 ## Histórias de Usuários
 
