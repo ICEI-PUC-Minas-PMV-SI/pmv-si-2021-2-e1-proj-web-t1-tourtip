@@ -27,9 +27,13 @@ Desenvolver um site, com objetivo de disponibilizar informações sobre espaços
 
 A proposta deste projeto é disponibilizar para o usuário do site TourTip os espaços de lazer e entretenimento com informações dos locais para facilitar na procura por lugares que o turista deseja conhecer.
 
-De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares.
-
-Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. Segundo artigo da Agência de Viagem Lufthansa City Center, as viagens de experiência são aquelas em que os viajantes têm a oportunidade de se conectar de forma autêntica com a história, os costumes e/ou as pessoas dos destinos pelos quais passam.
+De acordo com o artigo: Retomada do turismo em 2022 aquecerá economia por Eder Fonseca, depois de um período de isolamento social, as pessoas anseiam pela liberdade de colocar o pé na estrada ou a cabeça nos ares. Com o avanço da vacinação no país e a retomada gradual e intensa da produção, a expectativa é de crescimento no setor turístico em 2022. A previsão é que os brasileiros busquem mais o ecoturismo e a viagem de experiência. Segundo artigo da Agência de Viagem Lufthansa City Center, as viagens de experiência são aquelas em que os viajantes têm a oportunidade de se conectar de forma autêntica com a história, os costumes e/ou as pessoas dos destinos pelos quais passam.
+ 
+Neste caso, a proposta desta página vai ajudar esse tipo de usuário, que depois de passar por uma pandemia, na qual existia um grande medo de sair de casa, procura, neste momento, viajar e descobrir novos lugares para se divertir e relaxar.
+ 
+Com isso, será uma oportunidade para o site TourTip, pois, como informado anteriormente, o setor do turismo está em crescimento e a página poderá ser muito útil, para esse público.
+ 
+Neste intuito, a criação da página vai facilitar as informações para as necessidades dos turistas em prol do seu bem estar.
  
  </div>
 
