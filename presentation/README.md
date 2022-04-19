@@ -10,7 +10,7 @@ Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
 
-<img src="https://i.ibb.co/JRT2QqS/Brand.jpg" alt="brand" width="500">
+<img src="https://i.ibb.co/P5RYb4F/Brand.jpg" alt="brand" width="500">
 
 O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
