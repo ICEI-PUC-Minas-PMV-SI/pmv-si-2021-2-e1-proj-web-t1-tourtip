@@ -5,9 +5,9 @@ body {
 }
 
 :root {
-    --green-dark: #1D976C;
-    --green-light: #55FFC3;
-    --dark: #000;
+    --green-light: #1D976C;
+    --green-dark: #126145;
+    --black: #000;
     --gray-dark: #252525;
     --gray-light: #667085;
     --white: #fff;
