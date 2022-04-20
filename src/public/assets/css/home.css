@@ -1,32 +1,10 @@
-.nav-item_link, .home-title, .home-subtitle, .home-item_text, .home-item_card-title, .home-item_card-subtitle, .home-item_card-button {
-    font-family: 'Inter', sans-serif;
-    text-decoration: none;
+.home {
+    text-align: center;
 }
 
-.nav-container {
+.home-container {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    background: #fff;
-    padding: 1rem;
-}
-
-.nav-item_brand {
-    height: 30px;
-}
-
-.nav-item_links-list li {
-    display: inline;
-}
-
-.nav-item_link {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--black);
-    padding: .5rem 2rem;
-}
-
-.nav-item_link:hover {
-    color: var(--green-dark);
+    flex-direction: row;
 }
