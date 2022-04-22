@@ -1,5 +1,35 @@
 .home {
     text-align: center;
+    color: #fff;
+    font-weight: 700;
+}
+
+.home-title {
+    color: #fff;
+    font-weight: 700;
+    padding-top: 1rem;
+    margin-bottom: .3em;
+}
+
+.home-subtitle {
+    font-size: 1.5em;
+}
+
+.home-item {
+    width: 50%;
+    padding-top: 5rem;
+}
+
+.home-item_text {
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
+    text-align: left;
+    line-height: 1.3em;
+}
+
+.spotlight-text {
+    color: #57fcc2;
 }
 
 .home-container {
