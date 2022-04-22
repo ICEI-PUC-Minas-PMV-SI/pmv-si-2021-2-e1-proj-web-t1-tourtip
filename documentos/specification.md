@@ -22,9 +22,14 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Eu, Felipe Vicente como Turista e Estudante.| Quero conhecer melhor o local onde irei viajar e ter estas informações em apenas um site.  | Para melhorar o meu planejamento de viajem.|
-|Eu, Sandra de Paula como Professora de História.|Quero um site prático e fácil| Para pesquisar sobre a viajem, sem necessariamente usar aplicativos ou ficar presa ao smartphone.
-|Eu, Valentina Costa como Música.|Quero saber o local que possui música ao vivo. Em apenas um site com informações completas|Para melhorar o meu planejamento de viajem.|
+|Solteira e com dois filhos de Belo Horizonte/MG | Encontrar informação de Parques gratuitos em Belo Horizonte/MG com os horários de Funcionamento. | Para levar os meus filhos em parques gratuitos sem não ter custos, pois gosta de fazer piquenique com seus filhos.|
+Casados sem filhos de São Paul/SP  |  Encontrar dicas de restaurantes e Bares em Betim/MG com os horários de Funcionamento.  |  Divertir e conhecer restaurantes e bares com comidas típicas da cidade escolhida.  |
+Casados e tem três filhos de Betim-MG  |  Encontrar pontos turísticos em Belo Horizonte/MG com os horários de Funcionamento.  |  Conhecer lugares turísticos, pois gosta desse tipo de passeio.  |  
+Solteiro sem filhos do Rio de Janeiro/RJ |  Encontrar dicas restaurantes e Bares em Contagem/MG com os horários de Funcionamento. |  Levar seus clientes para almoçar ou jantar em um bom lugar. |
+Casados sem filhos de Belo Horizonte/MG | Encontrar museus e restaurantes em Belo Horizonte/MG com os horários de Funcionamento.| Conhecer Museus, pois gostam de arte e cultura e também querem encontrar bons lugares para almoçar ou jantar.
+Casados da terceira idade de Contagem/MG | Encontrar pontos turísticos em Contagem/MG com os horários de Funcionamento.| Conhecer com seus amigos da terceira idade os pontos turísticos do local de destino.|
+Recém casados sem filhos – Brasília/DF | Encontrar museus, praças e restaurantes em Betim/MG com os horários de Funcionamento. | Divertir juntos e conhecerem lugares diferentes como museus, pois gostam de aprender sobre a cultura do lugar e também comer em bons restaurantes.|
+Solteiros de Vitória/ES | Encontrar Salas de Cinemas/Betim e Contagem/MG com os horários de Funcionamento. | Gostam de filmes e quando viajam procuram cinemas para curtir um filme.|
 
 ## Requisitos
 
