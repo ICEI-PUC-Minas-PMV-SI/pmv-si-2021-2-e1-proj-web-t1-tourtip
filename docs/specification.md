@@ -8,13 +8,24 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <div align="justify">
 
-1.	Felipe Vicente, 21 anos é estudante de psicologia e gosta de disfrutar o máximo possível de sua viajem de férias e conhecer bares e boates da região e tem dificuldade em encontrar todas as informações, sobre o local de sua viajem em um site. Felipe: Eu gostaria de ter essas informações em apenas um site, para melhorar o meu planejamento de viajem.
+1. Juliana tem 39 anos, mora em Belo Horizonte é solteira e tem dois filhos e gosta de levá-los em Parques Públicos, pois são gratuitos e gosta desses espaços para fazer piquenique. 
 
-2.	Sandra de Paula, 50 anos é professora de História e gosta de aproveitar a folga no trabalho para realizar viajem. Focada em conhecer monumentos históricos e museus da região e tem dificuldade com download e uso de aplicativos. Sandra: Quero um site prático e fácil, para pesquisar sobre a viajem, sem necessariamente usar aplicativos ou ficar presa ao smartphone.
+2. Renata tem 21 anos e Ryan de 24, moram em São  
+Paulo e são casados e não tem filhos, gostam de viajar e curtir restaurantes e bares, gostam de comer comidas típicas do lugar e eles precisam de sugestões, para não correr o risco de passeios em locais, que não são de boa qualidade. 
 
-3.	Valentina Costa, 25 anos trabalha com música e gosta de encontrar bares com música ao vivo e shows e quando vai pesquisar ela verificar o custo x benefício das atrações. Valentina: Quero saber o local que possui música ao vivo em apenas um site com informações completas, para melhorar o meu planejamento de viajem.
-  
-  </div>
+3. Júnia tem 41 anos e Rodolfo tem 45, são casados e tem três filhos e moram em Betim – Minas Gerais e toda vez que procurar lugares para viajar, gostam de saber quais são os pontos turísticos do seu local de destino. 
+
+4. Ricardo tem 49 anos é solteiro e mora no Rio de Janeiro e trabalha viajando, mas quando ele vai para alguma cidade, gosta de saber onde tem bons restaurantes para levar seus clientes. 
+
+5. Frederico tem 55 anos e Ronaldo tem 48, eles são casados e trabalham na área da Educação, moram em Belo Horizonte e gosta de viajar e visitar lugares como museus e comer em um bom restaurante, pois adoram conhecer sobre o passado e de comerem em um bom restaurante. 
+
+6. Sônia tem 75 anos e Renê 80 anos e moram em Contagem – Minas Gerais e eles fazem parte do grupo da terceira idade e adoram viajar com os amigos para visitar lugares históricos, mas antes gostam de saber quais pontos turísticos vão visitar. 
+
+7. Daniela de 30 anos e Renato de 32 anos, moram em Brasília e são recém casados e ainda não tem filhos, adoram viajar e gostam de visitar museus, parques e bares. Mas, antes procuram saber quais os locais irão visitar na cidade de destino. 
+
+8. Gabriel de 20 anos e Maria Eduarda de 18 anos, são solteiros e moram em Vitória – ES, quando viajam, gostam de procurar cinemas, pois adoram assistir filme. 
+
+</div>
 
 ## Histórias de Usuários
 
