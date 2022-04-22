@@ -5,7 +5,7 @@ A plataforma TourTip possui 4 páginas de navegação principais: Início, Locai
 
 ## User Flow
 
-<img src="https://i.ibb.co/34VYtxX/Screenshot-from-2022-04-17-22-20-22.png" border="0">
+<img src="https://i.ibb.co/0XNt6XS/Screenshot-from-2022-04-22-15-31-51.png" border="0">
 
 O modelo acima tem a intenção de apresentar o fluxo de navegação do site, mostrando as páginas que serão carregadas de acordo com determinadas ações do usuário. O modelo apresenta a versão desktop, porém a navegação também pode ser feita por aparelhos mobile, pois a plataforma conta com responsividade para diferentes dispositivos.
 
