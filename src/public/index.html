@@ -44,37 +44,49 @@
     </header>
     <main>
         <section class="home container">
-            <div class="py-5 text-center">
+            <div class="pb-5 text-center">
                 <h1 class="home-title mb-3">Tour<span class="spotlight-text">Tip</span></h1>
                 <p class="home-subtitle">Encontre seu próximo destino conosco</p>
             </div>
             <div class="d-flex justify-content-between align-items-stretch text-start row py-5">
-                <div class="col">
+                <div class="col d-flex flex-column justify-content-center">
                     <p class="home-item_text py-3">Aqui iremos te ajudar a encontrar locais e pontos turísticos imperdiveis.</p>
                     <p class="home-item_text py-3">Você encontrará os principais lugares para se visitar.</p>
                     <p class="home-item_text py-3">Independetes de seus interesses, organizamos os pontos de relevância para as vários gostos diferentes.</p>
                     <p class="home-item_text py-3">Você encontrará destinos relacionados á: <span class="spotlight-text">Cultura</span>, <span class="spotlight-text">Esportes</span>, <span class="spotlight-text">Gastronomia</span>, <span class="spotlight-text">Hospedagem</span>, <span class="spotlight-text">Entretenimentos</span> entre outros.</p>
                 </div>
-                <div class="col text-center">
-                    <div class="home-item_card-list">
-                        <div>
+                <div class="col">
+                    <div class="d-flex flex-column align-items-center">
+                        <div class="pb-3 text-center">
                             <p class="home-item_card-title">Gostaria de filtrar minha pesquisa por:</p>
                         </div>
-                        <div>
-                            <div><img src="assets/img/cidades.jpg" class="home-item_card-image" style="height: 100px;" alt="Imagem cidades"></div>
-                            <div class="home-item_card-content">
-                                <h2 class="home-item_card-subtitle">Cidades</h2>
-                                <a href="" class="home-item_card-button">Explorar</a>
+                        <div class="card w-75 my-3 shadow home-item_card">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="assets/img/cidades.jpg" class="img-fluid home-item_card-image p-3" alt="Imagem card cidades">
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card-body">
+                                        <h5 class="card-title my-3 home-item_card-subtitle">Cidades </h5>
+                                        <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div>
-                            <div><img src="assets/img/categorias.jpg" class="home-item_card-image" style="height: 100px;" alt="Imagem categorias"></div>
-                            <div class="home-item_card-content">
-                                <h2 class="home-item_card-subtitle">Categorias</h2>
-                                <a href="" class="home-item_card-button">Explorar</a>
+                        <div class="card w-75 my-3 shadow home-item_card">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="assets/img/categorias.jpg" class="img-fluid home-item_card-image p-3" alt="Imagem card cidades">
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card-body">
+                                        <h5 class="card-title my-3 home-item_card-subtitle">Categorias </h5>
+                                        <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </div>                
                 </div>                
             </div>
         </section>

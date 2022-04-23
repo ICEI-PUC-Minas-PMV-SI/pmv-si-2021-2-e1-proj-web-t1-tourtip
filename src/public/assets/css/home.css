@@ -25,3 +25,30 @@
 .spotlight-text {
     color: var(--green-lightest);
 }
+
+.home-item_card {
+    border-radius: 10px;
+}
+
+.home-item_card-title {
+    font-size: 1.25rem;
+}
+
+.home-item_card-image {
+    border-radius: 25px;
+}
+
+.home-item_card-subtitle {
+    font-size: 2rem;
+    color: var(--black);
+}
+
+.home-item_card-button {
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+.shadow {
+    box-shadow: 0 1rem 2rem rgba(0,0,0,.5)!important;
+}
