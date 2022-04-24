@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="assets/css/base.css">
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet" href="assets/css/footer.css">
 </head>
 <body>
     <header>
@@ -44,8 +45,8 @@
     </header>
     <main>
         <section class="home container">
-            <div class="pb-5 text-center">
-                <h1 class="home-title mb-3">Tour<span class="spotlight-text">Tip</span></h1>
+            <div class="py-5 text-center">
+                <h1 class="home-title my-3">Tour<span class="spotlight-text">Tip</span></h1>
                 <p class="home-subtitle">Encontre seu próximo destino conosco</p>
             </div>
             <div class="d-flex justify-content-between align-items-stretch text-start row py-5">
@@ -57,31 +58,31 @@
                 </div>
                 <div class="col">
                     <div class="d-flex flex-column align-items-center">
-                        <div class="pb-3 text-center">
+                        <div class="py-3 text-center">
                             <p class="home-item_card-title">Gostaria de filtrar minha pesquisa por:</p>
                         </div>
                         <div class="card w-75 my-3 shadow home-item_card">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <img src="assets/img/cidades.jpg" class="img-fluid home-item_card-image p-3" alt="Imagem card cidades">
+                                <div class="col-lg-6">
+                                    <img src="assets/img/cidades.jpg" class="home-item_card-image img-fluid p-3" alt="Imagem card cidades">
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-lg-6 text-center">
                                     <div class="card-body">
-                                        <h5 class="card-title my-3 home-item_card-subtitle">Cidades </h5>
-                                        <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
+                                        <h5 class="card-title my-3 home-item_card-subtitle">Cidades</h5>
+                                        <button type="button" class="btn btn-success home-item_card-button px-4 py-2">Explorar</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="card w-75 my-3 shadow home-item_card">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <img src="assets/img/categorias.jpg" class="img-fluid home-item_card-image p-3" alt="Imagem card cidades">
+                                <div class="col-lg-6">
+                                    <img src="assets/img/categorias.jpg" class="home-item_card-image img-fluid p-3" alt="Imagem card cidades">
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-lg-6 text-center">
                                     <div class="card-body">
-                                        <h5 class="card-title my-3 home-item_card-subtitle">Categorias </h5>
-                                        <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
+                                        <h5 class="card-title my-3 home-item_card-subtitle">Categorias</h5>
+                                        <button type="button" class="btn btn-success home-item_card-button px-4 py-2">Explorar</button>
                                     </div>
                                 </div>
                             </div>
@@ -91,19 +92,17 @@
             </div>
         </section>
     </main>
-    <footer class="footer-container">
-        <div class="footer-item">
-            <p class="footer-item_title">Equipe Tour<span class="spotlight-text">Tip</span> - 2022</p>
-        </div>
-        <div class="footer-item">
-            <ul class="footer-item_links-list">
-                <li><a href="#" class="footer-item-link">Início</a> </li>
-                <li><a href="" class="footer-item-link">Cidades</a> </li>
-                <li><a href="" class="footer-item-link">Categorias</a> </li>
-                <li><a href="" class="footer-item-link">Sobre Nós</a></li>
-            </ul>
-        </div>
-    </footer>
+    <div>
+        <footer class="py-3 bg-light">
+          <ul class="nav justify-content-center py-1">
+            <li class="nav-item"><a href="#" class="nav-link px-2">Início</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2">Cidades</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2">Categorias</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2">Sobre Nós</a></li>
+          </ul>
+          <p class="text-center py-1">&copy; 2022 - Tour<span class="spotlight-text">Tip</span> </p>
+        </footer>
+      </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="assets/js/main.js"></script>

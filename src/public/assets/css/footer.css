@@ -1,0 +1,14 @@
+footer {
+    margin-top: auto;
+}
+
+footer .nav-link, footer p {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--black);
+}
+
+footer .nav-link:hover {
+    color: var(--gray-light);
+}

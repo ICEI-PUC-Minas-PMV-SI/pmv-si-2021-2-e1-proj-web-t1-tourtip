@@ -3,6 +3,10 @@
     text-decoration: none;
 }
 
+main {
+    min-height: 100vh;
+}
+
 .home {
     font-weight: 700;
     color: var(--white);
@@ -51,4 +55,10 @@
 
 .shadow {
     box-shadow: 0 1rem 2rem rgba(0,0,0,.5)!important;
+}
+
+@media screen and (max-width: 1440px) {
+    .home-item_card-subtitle {
+        font-size: 1.25rem;
+    }
 }
