@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body {
-    background: #1D976C;
+    background: #10875D;
 }
 
 :root {
-    --green-light: #1D976C;
+    --green-light: #10875D;
     --green-dark: #126145;
     --green-lightest: #57fcc2;
     --black: #000;

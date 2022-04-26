@@ -6,7 +6,7 @@ footer .nav-link, footer p {
     font-family: 'Inter', sans-serif;
     font-size: 1rem;
     font-weight: 700;
-    color: var(--black);
+    color: var(--gray-dark);
 }
 
 footer .nav-link:hover {
