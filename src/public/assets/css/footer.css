@@ -6,9 +6,9 @@ footer .nav-link, footer p {
     font-family: 'Inter', sans-serif;
     font-size: 1rem;
     font-weight: 700;
-    color: var(--gray-dark);
+    color: var(--grey-dark);
 }
 
 footer .nav-link:hover {
-    color: var(--gray-light);
+    color: var(--grey-light);
 }
