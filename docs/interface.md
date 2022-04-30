@@ -5,21 +5,12 @@ A plataforma TourTip possui 4 páginas de navegação principais: Início, Locai
 
 ## User Flow
 
-<img src="https://i.ibb.co/0XNt6XS/Screenshot-from-2022-04-22-15-31-51.png" border="0">
+<img src="https://i.ibb.co/1X8yQ9W/Screenshot-from-2022-04-30-13-56-06.png" border="0">
 
 O modelo acima tem a intenção de apresentar o fluxo de navegação do site, mostrando as páginas que serão carregadas de acordo com determinadas ações do usuário. O modelo apresenta a versão desktop, porém a navegação também pode ser feita por aparelhos mobile, pois a plataforma conta com responsividade para diferentes dispositivos.
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+<img src="https://i.ibb.co/WFgr82y/Screenshot-from-2022-04-30-13-55-48.png" border="0">
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
