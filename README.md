@@ -17,7 +17,6 @@ O TourTip visa entregar aos usuários uma experiência agradável e simplificada
 * Arthur Ramos Garcia
 * Gleyvison Antônio Anselmo
 * Henrique de Paula Lima
-* Heron Da Silva Cendrethe
 * Igor Moraes Torres
 * Lucas Vinicius Oliveira Mendes
 
