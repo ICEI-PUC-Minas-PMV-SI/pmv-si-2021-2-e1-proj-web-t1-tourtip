@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    color: blue;
+    font-family: Arial;
+    font-size: 20px;
+}
+h1 {
+    color: #10875D;
+}
+
+<p> {
+    color: #10875D;
+}
+#conteudo {
+    width: 30%;
+    background-color: #10875D;
+   }
