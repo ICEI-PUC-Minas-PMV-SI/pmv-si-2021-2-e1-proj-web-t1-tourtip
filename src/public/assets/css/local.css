@@ -1,0 +1,30 @@
+main h1, h2, h5, p {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+main h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--black);
+}
+
+main h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--black);
+  padding: 0 0 1rem;
+}
+
+main p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--black);
+  padding: 0 3rem;
+}
+
+main h5 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--black);
+}
