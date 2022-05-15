@@ -1,0 +1,39 @@
+.main-title, .main-content, .card-body .card-title, h2, p, .home-item_card-button {
+  font-family: 'Inter', sans-serif;
+  text-decoration: none;
+}
+
+.main-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+.main-content {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--black);
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--black);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.home-item_card-button {
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 50px;
+}
