@@ -1,5 +1,6 @@
 .main-title,
-.main-content {
+.main-content,
+.card-title {
     font-family: 'Inter', sans-serif;
     text-decoration: none;
 }
@@ -16,7 +17,23 @@
     color: var(--white);
 }
 
+.main-card {
+    padding: 5rem 0;
+}
+
 .card img {
     height: 250px;
     object-fit: cover;
+}
+
+.card-body .card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--black);
+}
+
+.home-item_card-button {
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 50px;
 }

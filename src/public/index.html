@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <header>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TourTip</title>
-    <link rel="icon" href="assets/img/Icon.png" type="image/icon type">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="icon" href="assets/img/icon.png" type="image/icon type">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/normalize.css">
     <link rel="stylesheet" href="assets/css/base.css">
@@ -12,13 +14,12 @@
     <link rel="stylesheet" href="assets/css/home.css">
     <link rel="stylesheet" href="assets/css/footer.css">
 </header>
-
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="assets/img/Brand.png" alt="" class="px-4 navbar-brand-img">
+                    <img src="assets/img/brand.png" alt="Logo do TourTip" class="px-4 navbar-brand-img">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -28,34 +29,31 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4" style="color: #10875D;" aria-current="page"
-                                href="index.html">Início</a>
+                            <a class="nav-link px-4" aria-current="page" href="index.html" style="color: #10875D;">Início</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="Cidades.html">Cidades</a>
+                            <a class="nav-link px-4" href="cidades.html">Cidades</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="Categorias.html">Categorias</a>
+                            <a class="nav-link px-4" href="categorias.html">Categorias</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="sobre nós.html">Sobre Nós</a>
+                            <a class="nav-link px-4" href="sobre-nós.html">Sobre Nós</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-
     <main>
         <section class="home container">
             <div class="py-5 text-center">
                 <h1 class="home-title my-3">TourTip</h1>
                 <p class="home-subtitle">Encontre seu próximo destino conosco</p>
             </div>
-            <div class="d-flex justify-content-between align-items-stretch text-start row py-5">
+            <div class="container d-flex justify-content-between align-items-stretch text-start row py-5">
                 <div class="col d-flex flex-column justify-content-center">
-                    <p class="home-item_text py-3">Aqui iremos te ajudar a encontrar locais e pontos turísticos
-                        imperdiveis.</p>
+                    <p class="home-item_text py-3">Aqui iremos te ajudar a encontrar locais e pontos turísticos imperdiveis.</p>
                     <p class="home-item_text py-3">Você encontrará os principais lugares para se visitar.</p>
                     <p class="home-item_text py-3">Independetes de seus interesses, organizamos os pontos de relevância para as vários gostos diferentes.</p>
                     <p class="home-item_text py-3">Você encontrará destinos relacionados á: <span class="spotlight-text">Cultura</span>, <span class="spotlight-text">Esportes</span>, <span class="spotlight-text">Gastronomia</span>, <span class="spotlight-text">Hospedagem</span>,
@@ -70,13 +68,12 @@
                         <div class="card w-75 my-3 shadow home-item_card">
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <img src="assets/img/cidades.jpg" class="home-item_card-image img-fluid p-3"
-                                        alt="Imagem card cidades">
+                                    <img src="assets/img/cidades.jpg" class="home-item_card-image img-fluid p-3" alt="Imagem do card das cidades">
                                 </div>
                                 <div class="col-lg-6 text-center">
                                     <div class="card-body">
                                         <h5 class="card-title my-3 home-item_card-subtitle">Cidades</h5>
-                                        <a href="Cidades.html"><button type="button" class="btn btn-success home-item_card-button px-4 py-2">Explorar</button>
+                                        <a href="cidades.html"><button type="button" class="btn btn-success home-item_card-button px-4 py-2">Explorar</button>
                                         </a>
                                     </div>
                                 </div>
@@ -85,13 +82,12 @@
                         <div class="card w-75 my-3 shadow home-item_card">
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <img src="assets/img/categorias.jpg" class="home-item_card-image img-fluid p-3"
-                                        alt="Imagem card cidades">
+                                    <img src="assets/img/categorias.jpg" class="home-item_card-image img-fluid p-3" alt="Imagem do card das categorias">
                                 </div>
                                 <div class="col-lg-6 text-center">
                                     <div class="card-body">
                                         <h5 class="card-title my-3 home-item_card-subtitle">Categorias</h5>
-                                        <a href="Categorias.html">
+                                        <a href="categorias.html">
                                             <button type="button" class="btn btn-success home-item_card-button px-4 py-2">Explorar</button>
                                         </a>
                                     </div>
@@ -103,21 +99,16 @@
             </div>
         </section>
     </main>
-    
     <footer class="py-3 bg-light">
         <ul class="nav justify-content-center py-1">
-            <li class="nav-item"><a href="#" class="nav-link px-2">Início</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2">Cidades</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2">Categorias</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2">Sobre Nós</a></li>
+            <li class="nav-item"><a href="index.html" class="nav-link px-2">Início</a></li>
+            <li class="nav-item"><a href="cidades.html" class="nav-link px-2">Cidades</a></li>
+            <li class="nav-item"><a href="categorias.html" class="nav-link px-2">Categorias</a></li>
+            <li class="nav-item"><a href="sobre-nós.html" class="nav-link px-2">Sobre Nós</a></li>
         </ul>
         <p class="text-center py-1">&copy; 2022 - Tour<span class="spotlight-text">Tip</span> </p>
     </footer>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="assets/js/main.js"></script>
 </body>
-
 </html>

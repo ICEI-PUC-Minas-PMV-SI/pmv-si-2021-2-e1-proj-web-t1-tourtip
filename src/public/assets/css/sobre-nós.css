@@ -1,0 +1,33 @@
+.main-title,
+.main-content,
+.card-body p {
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+.main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.main-content {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.card {
+    padding: 3rem 0;
+}
+
+.card-body p {
+    padding: .75rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--black);
+}
+
+main {
+    margin-bottom: 12rem;
+}
