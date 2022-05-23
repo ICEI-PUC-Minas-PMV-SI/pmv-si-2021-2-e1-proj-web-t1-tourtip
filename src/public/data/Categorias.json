@@ -1,21 +1,10 @@
 {
-"Categorias" :
- [
-     "Cinemas",  
- 
- 
-     "Bares",
- 
- 
-     "Restaurantes",
- 
- 
-     "Museus",
- 
- 
-     "Parques Públicos",
- 
- 
-     "Pontos Turisticos"
- ]
+    "Categorias": [
+        "Cinemas",
+        "Bares",
+        "Restaurantes",
+        "Museus",
+        "Parques Públicos",
+        "Pontos Turisticos"
+    ]
 }
