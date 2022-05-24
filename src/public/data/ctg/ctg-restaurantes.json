@@ -1,0 +1,49 @@
+[
+	{
+        "id": "0",
+        "name": "Casa Gusto Ristorante Italiano",
+        "address": "R. Santa Terezinha, 250 - Nossa Sra. do Carmo, Contagem MG, 32015-600",
+	    "contact": "(31) 98345-2005",
+        "link": "http://casagusto.com.br/"
+    },
+
+    {
+        "id": "1",
+        "name": "Restaurante Tradição da Roça",
+        "address": "Av. Francisco Firmo de Matos, 212 - Jardim Riacho das Pedras, Contagem MG, 32280-270",
+	    "contact": "(31) 3396-1870",
+        "link": "https://www.instagram.com/tradicao.da.roca.oficial/"
+    },
+
+    {
+        "id": "2",
+        "name": "Cumbuca Restaurante e Pizzaria",
+        "address": "Av. Princesa Isabel, 20 - São Joaquim, Contagem MG, 32110-000",
+	    "contact": "(31) 3357-7466",
+        "link": "https://restaurantecumbuca.com.br/"
+    },
+
+  {
+        "id": "3",
+        "name": "Restaurante Paulista Centro Contagem",
+        "address": "R. Manoel Alves, 138 - Centro, Contagem MG, 32041-400",
+	    "contact": "(31) 3355-3287",
+        "link": "http://restaurantecantinapaulista.com.br/"
+    },
+
+  {
+        "id": "4",
+        "name": "Tropeiro do Zezé",
+        "address": "R. Corcovado, 721 - Novo Riacho, Contagem MG, 32280-520",
+	    "contact": "(31) 3356-2911",
+        "link": "https://www.tropeirodozeze.com.br/"
+    },
+
+  {
+        "id": "5",
+        "name": "Shizuoka Restaurante Japonês",
+        "address": "Av. Nossa Sra. da Conceição - Vila Beneves, Contagem - MG, 32044-000",
+	    "contact": "(31) 3398-2172",
+        "link": "https://www.instagram.com/shizuokarestaurante/"
+    }
+]

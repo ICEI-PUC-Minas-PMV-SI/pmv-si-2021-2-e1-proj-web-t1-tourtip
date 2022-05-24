@@ -1,0 +1,65 @@
+[
+	{
+        "id": "0",
+        "name": "Parque Ecológico Eldorado",
+        "address": "R. Paineiras, 753 - Eldorado, Contagem - MG, 32310-400",
+	    "contact": "(31) 3392-1372",
+        "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-ecologico-do-eldorado"
+    },
+
+    {
+        "id": "1",
+        "name": "Parque Fernão Dias",
+        "address": "Parque Fernão Dias, R. Rio Comprido, 5, Contagem MG",
+	    "link": "Não ha links para esse local"
+    },
+
+    {
+        "id": "2",
+        "name": "Parque Ecológico Thiago Rodrigues Ricardo",
+        "address": "R. Paineiras, 1722 - Eldorado, Contagem - MG, 32046-304",
+	    "contact": "(31) 3392-1372",
+        "link": "Não ha links para esse local"
+    },
+
+  {
+        "id": "3",
+        "name": "Parque Sapucaias",
+        "address": "Av. das Tulipas, s/n - Sapucaias, Contagem MG, 32071-122",
+        "link": "Não ha links para esse local"
+    },
+
+  {
+        "id": "4",
+        "name": "Parque Ecológico Antônio Pereira Cardoso",
+        "address": "R. Quarenta e Dois, 430 - Tropical, Contagem MG, 32072-440",
+        "link": "Não ha links para esse local"
+    },
+
+  {
+        "id": "5",
+        "name": "Playground Parque Sarandi",
+        "address": "Av. Severino Ballesteros, 623 - Ressaca, Contagem MG, 32110-005",
+	    "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-sarandi"
+    },
+  {
+        "id": "6",
+        "name": "Parque das Amendoeiras",
+        "address": "319, R. Turfa, 301 - Pedra Azul, Contagem MG, 32183-510",
+	    "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-das-amendoeiras"
+  },
+
+  {
+        "id": "7",
+        "name": "Praça do Sol",
+        "address": "Av. Severino Ballesteros - Ressaca, Contagem MG, 32140-000",
+	    "link": "https://m.facebook.com/profile.php?id=215180605225305"
+  },
+
+  {
+        "id": "7",
+        "name": "Parque Municipal Gentil Diniz",
+        "address": "Rua Maria do Carmo Diniz, 141 - Nossa Senhora do Carmo CEP 32.015-780 - Contagem MG",
+	    "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-municipal-gentil-diniz"
+  }     
+]

@@ -1,0 +1,48 @@
+[
+	{
+        "id": "0",
+        "name": "Mei Du Mato Pub",
+        "address": "R. Doná Herculina, 145 - Nossa Sra. do Carmo, Contagem MG, 32015-640",
+        "link": "https://www.instagram.com/meidumatopub/"
+    },
+
+    {
+        "id": "1",
+        "name": "Bendito Deck Bar",
+        "address": "Av. José Luís da Cunha, 120 - Alvorada, Contagem MG, 32042-080",
+	    "contact": "(31) 98410-2363",
+        "link": "https://www.instagram.com/benditodeckbar/"
+    },
+
+    {
+        "id": "2",
+        "name": "Silvinho's Bar 3",
+        "address": "Av. Pref. Gil Diniz, 676 - Centro, Contagem MG, 32013-650",
+	    "contact": "(31) 3351-7308",
+        "link": "http://www.silvinhosbar.com/index.php/nossas-unidades.html"
+    },
+
+  {
+        "id": "3",
+        "name": "Bar Du André",
+        "address": "R. Peregrino Varela, 136 - Nossa Sra. do Carmo, Contagem MG, 32015-670",
+	    "contact": "(31) 2524-3901",
+        "link": "Não ha links para esse local"
+    },
+
+  {
+        "id": "4",
+        "name": "Bar da Fátima",
+        "address": " R. Gilda Maria da Silva, 176 - Eldorado, Contagem MG, 32310-240",
+	    "contact": "(31) 3395-2516",
+        "link": "Não ha links para esse local"
+    },
+
+  {
+        "id": "5",
+        "name": "Silvinho's Bar 2",
+        "address": "Av. Londres, 620 - Novo Eldorado, Contagem MG, 32340-570",
+	    "contact": "(31) 3391-5395",
+        "link": "http://silvinhosbar.com/"
+    }
+]
