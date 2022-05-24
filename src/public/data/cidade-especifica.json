@@ -1,0 +1,92 @@
+[
+  {
+    "img": "https://i.ibb.co/kxCskHL/belo-horizonte.jpg",
+    "name": "Belo Horizonte",
+    "description": "Belo Horizonte é um município brasileiro e a capital do estado de Minas Gerais. Sua população estimada pelo IBGE para 1.º de julho de 2021 era de 2 530 701 habitantes, sendo o sexto município mais populoso do país, o terceiro da Região Sudeste e primeiro de seu estado.Com uma área de aproximadamente 331 km², possui uma geografia diversificada, com morros e baixadas. Com uma distância de 716 quilômetros de Brasília, é a segunda capital de estado mais próxima da capital federal, depois de Goiânia.",
+    "places": [
+      {
+        "name": "Lagoa da Pampulha",
+        "img": ""
+      },
+      {
+        "name": "Praça da Liberdade",
+        "img": ""
+      },
+      {
+        "name": "Mineirão",
+        "img": ""
+      }
+    ],
+    "categories": [
+      {
+        "name": "Pontos Turísticos"
+      },
+      {
+        "name": "Parques Públicos"
+      },
+      {
+        "name": "Bares"
+      }
+    ]
+  },
+  {
+    "img": "https://i.ibb.co/47vWMqj/contagem.jpg",
+    "name": "Contagem",
+    "description": "Contagem é um município brasileiro do estado de Minas Gerais, Região Sudeste do país. Pertence à Região Metropolitana de Belo Horizonte e é o terceiro município mais populoso do estado, reunindo 673 849 habitantes, segundo estimativa de 2021.",
+    "places": [
+      {
+        "name": "Lagoa da Pampulha",
+        "img": ""
+      },
+      {
+        "name": "Praça da Liberdade",
+        "img": ""
+      },
+      {
+        "name": "Mineirão",
+        "img": ""
+      }
+    ],
+    "categories": [
+      {
+        "name": "Pontos Turísticos"
+      },
+      {
+        "name": "Parques Públicos"
+      },
+      {
+        "name": "Bares"
+      }
+    ]
+  },
+  {
+    "img": "https://i.ibb.co/pxLhkjX/betim.jpg",
+    "name": "Betim",
+    "description": "Betim é um município brasileiro do estado de Minas Gerais, Região Sudeste do país. Pertence à Região Metropolitana de Belo Horizonte e é o quinto município mais populoso do estado, reunindo 450 024 habitantes segundo estimativa de 2021.",
+    "places": [
+      {
+        "name": "Lagoa da Pampulha",
+        "img": ""
+      },
+      {
+        "name": "Praça da Liberdade",
+        "img": ""
+      },
+      {
+        "name": "Mineirão",
+        "img": ""
+      }
+    ],
+    "categories": [
+      {
+        "name": "Pontos Turísticos"
+      },
+      {
+        "name": "Parques Públicos"
+      },
+      {
+        "name": "Bares"
+      }
+    ]
+  }
+]

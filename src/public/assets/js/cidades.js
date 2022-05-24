@@ -1,8 +1,8 @@
-URL = 'http://localhost:4000/cities';
+citiesURL = 'http://localhost:3000/cities';
 
 const citiesList = document.querySelector('#cities-list');
 
-fetch(URL)
+fetch(citiesURL)
   .then(res => res.json())
   .then(cities => {
     let cities_list = '';
@@ -10,14 +10,16 @@ fetch(URL)
       cities_list += `
       <div class="my-3 main-card col-sm-12 col-lg-4">
         <div class="card" style="border-radius: 20px;">
-            <div class="card-body text-center">
-                <h5 class="card-title">${cities[i].name}</h5>
+            <div>
+              <div class="card-body text-center">
+                  <h5 class="card-title">${cities[i].name}</h5>
+              </div>
+              <img src="${cities[i].img}" class="img-fluid p-2" style="border-radius: 20px;" alt="Foto de esportes">
             </div>
-            <img src="${cities[i].img}" class="img-fluid p-2" style="border-radius: 20px;" alt="Foto de esportes">
             <div class="card-body text-center">
-                <a href="cidade-especifica.html">
-                    <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
-                </a>
+              <a href="cidade-especifica.html?id=${cities[i].id}">
+                <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>                
+              </a>
             </div>
         </div>
       </div>

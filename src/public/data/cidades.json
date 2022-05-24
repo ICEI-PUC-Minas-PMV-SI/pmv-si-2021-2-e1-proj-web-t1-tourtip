@@ -1,13 +1,16 @@
 [
     {
+        "id": 0,
         "name": "Belo Horizonte",
         "img": "https://i.ibb.co/kxCskHL/belo-horizonte.jpg"
     },
     {
+        "id": 1,
         "name": "Contagem",
         "img": "https://i.ibb.co/47vWMqj/contagem.jpg"
     },
     {
+        "id": 2,
         "name": "Betim",
         "img": "https://i.ibb.co/pxLhkjX/betim.jpg"
     }

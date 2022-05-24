@@ -1,4 +1,4 @@
-URL = 'http://localhost:4000/categories';
+URL = 'http://localhost:3000/categories';
 
 const categoriesList = document.querySelector('#categories-list');
 
