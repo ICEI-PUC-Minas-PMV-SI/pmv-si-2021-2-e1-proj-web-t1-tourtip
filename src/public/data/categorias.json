@@ -1,10 +1,26 @@
-{
-    "Categorias": [
-        "Cinemas",
-        "Bares",
-        "Restaurantes",
-        "Museus",
-        "Parques Públicos",
-        "Pontos Turisticos"
-    ]
-}
+[
+    {
+        "name": "Cinemas",
+        "img": "https://i.ibb.co/596vchr/cinemas.jpg"
+    },
+    {
+        "name": "Bares",
+        "img": "https://i.ibb.co/4STvvQF/bares.jpg"
+    },
+    {
+        "name": "Restaurantes",
+        "img": "https://i.ibb.co/ZXhjpYr/restaurantes.jpg"
+    },
+    {
+        "name": "Museus",
+        "img": "https://i.ibb.co/KjG68bJ/museus.jpg"
+    },
+    {
+        "name": "Parques Públicos",
+        "img": "https://i.ibb.co/4sjh6XZ/parques-publicos.jpg"
+    },
+    {
+        "name": "Pontos Turisticos",
+        "img": "https://i.ibb.co/qB2BRD2/pontos-turisticos.jpg"
+    }
+]

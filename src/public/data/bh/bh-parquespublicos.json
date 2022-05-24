@@ -1,15 +1,68 @@
-{
-    "lugaresparquespublicosbh": [
-        "Parque Municipal Américo Renné Giannetti – https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-municipal-americo-renne-giannetti Endereço: Av. Afonso Pena, 1377 - Centro, Belo Horizonte - MG, 30130-000 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
-        "Parque Municipal das Mangabeiras - https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: Av. José do Patrocínio Pontes, 580 - Mangabeiras, Belo Horizonte - MG, 30210-090 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
-        "Parque Municipal Jacques Cousteau – https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-jacques-cousteau Endereço: R. Augusto José dos Santos, 366 - Estrela do Oriente, Belo Horizonte - MG, 30580-100 Diariamente, das 7h às 18h",
-        "Parque Ecológico e Cultural Professor Marcos Mazzoni – https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: R. Dep. Bernardino Sena Figueiredo, 1.022 - Cidade Nova, Belo Horizonte - MG, 31170-210 Abre quarta a domingo de 08:00 as 18:00",
-        "Parque Municipal Fazenda Lagoa do Nado - https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: R. Min. Hermenegildo de Barros, 904 - Itapoã, Belo Horizonte - MG, 31710-230 Terça a domingo, das 6h40 às 17h",
-        "Parque Cássia Eller – https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: Av. Pres. Tancredo Neves, 2900 - Paquetá, Belo Horizonte - MG, 31330-910 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
-        "Parque Ecológico Roberto Burle Marx (Parque das Águas) Endereço: Av. Ximango, 809 - Flávio Marques Lisboa, Belo Horizonte – MG Terça a domingo, das 8h às 17h",
-        "Parque Renato Azeredo - https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: Av. José Cleto, s/n - Palmares, Belo Horizonte - MG, 31155-470 (necessária a vacinação contra febre amarela) Terça a domingo, das 8h às 18h",
-        "Parque Ecológico Francisco Lins do Rêgo (Pampulha) https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanic Endereço: Av. Otacílio Negrão de Lima, 6061 - Pampulha, Belo Horizonte - MG, 31365-450 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
-        "Parque Amilcar Vianna Martins – https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: R. Cobre, 114 - Cruzeiro, Belo Horizonte - MG, 30330-190 Terça a domingo, das 8h às 17h",
-        "Fundação de Parques Municipais e Zoobotânica de Belo Horizonte - https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica Endereço: Av. Otacílio Negrão de Lima, 8000 - Pampulha, Belo Horizonte - MG, 31365-450 Terça a doming, das 8h ás 17h"
-    ]
-}
+[
+    {
+        "id": "0",
+        "name": "Parque Municipal Américo Renné Giannetti",
+        "address": "Av. Afonso Pena, 1377 - Centro, Belo Horizonte - MG, 30130-000 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-municipal-americo-renne-giannetti"
+    },
+    {
+        "id": "1",
+        "name": "Parque Municipal das Mangabeiras",
+        "address": "Av. José do Patrocínio Pontes, 580 - Mangabeiras, Belo Horizonte - MG, 30210-090 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "2",
+        "name": "Parque Municipal Jacques Cousteau",
+        "address": "R. Augusto José dos Santos, 366 - Estrela do Oriente, Belo Horizonte - MG, 30580-100 Diariamente, das 7h às 18h",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-jacques-cousteau"
+    },
+    {
+        "id": "3",
+        "name": "Parque Ecológico e Cultural Professor Marcos Mazzoni",
+        "address": "R. Dep. Bernardino Sena Figueiredo, 1.022 - Cidade Nova, Belo Horizonte - MG, 31170-210 Abre quarta a domingo de 08:00 as 18:00",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "4",
+        "name": "Parque Municipal Fazenda Lagoa do Nado",
+        "address": "R. Min. Hermenegildo de Barros, 904 - Itapoã, Belo Horizonte - MG, 31710-230 Terça a domingo, das 6h40 às 17h",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "5",
+        "name": "Parque Cássia Eller",
+        "address": "Av. Pres. Tancredo Neves, 2900 - Paquetá, Belo Horizonte - MG, 31330-910 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "6",
+        "name": "Parque Ecológico Roberto Burle Marx(Parque das Águas)",
+        "address": "Av. Ximango, 809 - Flávio Marques Lisboa, Belo Horizonte – MG Terça a domingo, das 8h às 17h",
+        "link": "Não ha links para esse local"
+    },
+    {
+        "id": "7",
+        "name": "Parque Renato Azeredo",
+        "address": "Av. José Cleto, s/n - Palmares, Belo Horizonte - MG, 31155-470 (necessária a vacinação contra febre amarela) Terça a domingo, das 8h às 18h",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "8",
+        "name": "Parque Ecológico Francisco Lins do Rêgo (Pampulha)",
+        "address": "Av. Otacílio Negrão de Lima, 6061 - Pampulha, Belo Horizonte - MG, 31365-450 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanic"
+    },
+    {
+        "id": "9",
+        "name": "Parque Amilcar Vianna Martins",
+        "address": "R. Cobre, 114 - Cruzeiro, Belo Horizonte - MG, 30330-190 Terça a domingo, das 8h às 17h",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    },
+    {
+        "id": "10",
+        "name": "Fundação de Parques Municipais e Zoobotânica de Belo Horizonte",
+        "address": "Av. Otacílio Negrão de Lima, 8000 - Pampulha, Belo Horizonte - MG, 31365-450 Terça a doming, das 8h ás 17h",
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica"
+    }
+]

@@ -1,7 +1,14 @@
-{
-    "Cidades": [
-        "Belo Horizonte-MG",
-        "Betim-MG",
-        "Contagem-MG"
-    ]
-}
+[
+    {
+        "name": "Belo Horizonte",
+        "img": "https://i.ibb.co/kxCskHL/belo-horizonte.jpg"
+    },
+    {
+        "name": "Contagem",
+        "img": "https://i.ibb.co/47vWMqj/contagem.jpg"
+    },
+    {
+        "name": "Betim",
+        "img": "https://i.ibb.co/pxLhkjX/betim.jpg"
+    }
+]
