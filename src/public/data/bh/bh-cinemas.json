@@ -5,8 +5,8 @@
         "address": "BR-356, 3049 - Belvedere, Belo Horizonte - MG, 30320-900",
         "link": "https://www.bhshopping.com.br/lazer",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/bh-shopping-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/bh-shopping-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "BR-356, 2500 - Santa Lúcia, Belo Horizonte - MG, 30320-901",
         "link": "https://ponteiolarshopping.com.br/cinema",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/ponteiro-lar-shopping-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/ponteiro-lar-shopping-2.jpg"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "address": "Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte - MG, 30260-070",
         "link": "https://boulevardshopping.com.br/lazer/cinema",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/boulevard-shopping-bh-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/boulevard-shopping-bh-2.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "address": "Av. Cristiano Machado, 11833 - Vila Cloris, Belo Horizonte - MG, 31744-007",
         "link": "https://www.shoppingestacaobh.com.br/cinema",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/shopping-estacao-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/shopping-estacao-2.jpg"
         ]
     },
     {
@@ -45,8 +45,8 @@
         "address": "Rua dos Tupis, 337 - Centro, Belo Horizonte - MG, 30190-060",
         "link": "https://www.shoppingcidade.com.br/site/cinema/index",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/shopping-cidade-bh-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/shopping-cidade-bh-2.jpg"
         ]
     },
     {
@@ -55,8 +55,8 @@
         "address": "Av. Cristiano Machado, 4.000 - União, Belo Horizonte - MG, 31160-900",
         "link": "https://www.minasshopping.com.br/cinema.asp",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/minas-shopping-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/minas-shopping-2.jpg"
         ]
     },
     {
@@ -65,8 +65,8 @@
         "address": "Av. Olegário Maciel, 1600 - Lourdes, Belo Horizonte - MG, 30180-915",
         "link": "https://www.diamondmall.com.br/lazer/cinema",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/diamondmall-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/diamondmall-2.jpg"
         ]
     },
     {
@@ -75,8 +75,8 @@
         "address": "Av. do Contorno, 6061 - São Pedro, Belo Horizonte - MG, 30110-929",
         "link": "https://www.patiosavassi.com/lazer",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/patio-savassi-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/patio-savassi-2.jpg"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "address": "Av. Presidente Carlos Luz, 3001 - Pampulha, Belo Horizonte - MG, 31250-010",
         "link": "https://www.shoppingdelrey.com.br/cinema",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/cinemas/shopping-del-rey-1.jpg",
+            "/src/public/assets/img/bh-photos/cinemas/shopping-del-rey-2.jpg"
         ]
     }
 ]

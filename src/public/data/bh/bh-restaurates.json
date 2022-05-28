@@ -5,8 +5,8 @@
         "address": "Rua Bárbara Heliodora, 59 - Lourdes, Belo Horizonte - MG, 30180-130",
         "link": "https://www.glouton.com.br",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/restaurantes/glouton-1.jpg",
+            "/src/public/assets/img/bh-photos/restaurantes/glouton-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "Av. Gildo Macedo Lacerda, 300 - Braúnas, Belo Horizonte - MG, 31365-745",
         "link": "http://restaurantepaladino.com.br",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/restaurantes/paladino-1.jpg",
+            "/src/public/assets/img/bh-photos/restaurantes/paladino-2.jpg"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "address": "R. Francisco Deslandes, 900 - Anchieta, Belo Horizonte - MG, 30310-530",
         "link": "https://cocobambu.com/unidades/belo-horizonte",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/restaurantes/coco-bambu-bh-anchieta-1.jpg",
+            "/src/public/assets/img/bh-photos/restaurantes/coco-bambu-bh-anchieta-2.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "address": "Av. do Contorno, 4667 - Serra, Belo Horizonte - MG, 30220-040",
         "link": "https://www.instagram.com/accounts/login/?next=/gastrohub.bh",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/restaurantes/gastro-hub-1.jpg",
+            "/src/public/assets/img/bh-photos/restaurantes/gastro-hub-2.jpg"
         ]
     },
     {
@@ -45,8 +45,8 @@
         "address": "Rua Mandacarú, 260 - Trevo, Belo Horizonte - MG, 31370-270",
         "link": "https://restaurantexapuri.negocio.site/?utm_source=gmb&utm_medium=referral",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/bh-photos/restaurantes/xapuri-1.jpg",
+            "/src/public/assets/img/bh-photos/restaurantes/xapuri-2.jpg"
         ]
     }
 ]

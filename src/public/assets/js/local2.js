@@ -39,15 +39,15 @@ fetch(specificCityURL)
     `;
     placeInfo.innerHTML = place_list;
 
-    // for (let i = 0; i < place[id].imgs.length; i++) {
-    //   place_img_list += `
-    //   <img
-    //     src=""
-    //     class="img-fluid p-4"
-    //     style="border-radius: 40px"
-    //     alt="..."
-    //   />
-    //   `;
-    //   placeImgs.innerHTML = place_img_list;
-    // }
+    for (let i = 0; i < place.imgs.length; i++) {
+      place_img_list += `
+      <img
+        src="${place.imgs[i]}"
+        class="img-fluid p-4"
+        style="border-radius: 40px"
+        alt="..."
+      />
+      `;
+      placeImgs.innerHTML = place_img_list;
+    }
   })
