@@ -63,69 +63,28 @@
         </div>
       </nav>
     </header>
+
     <main class="row justify-content-evenly align-items-start m-0 py-3">
-      <div
-        class="px-5 py-3 text-center d-flex justify-content-start"
-        style="width: 100%"
-      >
+      <div class="px-5 py-3 text-center d-flex justify-content-start" style="width: 100%" >
         <div>
-          <img
-            src="assets/img/back-arrow.svg"
-            alt=""
-            onclick="history.back()"
-          />
+          <img src="assets/img/back-arrow.svg" onclick="history.back()"/>
         </div>
       </div>
-      <div class="col-sm-12 col-lg-5">
-        <div class="card my-5 py-3" style="border-radius: 20px">
-          <div class="card-body">
-            <div></div>
-            <!-- <h1>Praça da Liberdade</h1> -->
-            <div id="local-name"></div>
-          </div>
-        </div>
-        <div class="card my-5 py-3" style="border-radius: 20px">
-          <div class="card-body">
-            <h2>Endereço</h2>
-            <!-- <p>Praça da Liberdade, s/n - Funcionários, Belo Horizonte - MG, 30140-010</p> -->
-            <div id="local-adress"></div>
-          </div>
-        </div>
-        <div class="card my-5 py-3" style="border-radius: 20px">
-          <div class="card-body">
-            <h2>Descrição</h2>
-            <!-- <p>A Praça da Liberdade é uma praça principal da cidade de Belo Horizonte, Brasil.</p> -->
-            <div id="local-description"></div>
-          </div>
-        </div>
-        <div class="card my-5 py-3" style="border-radius: 20px">
-          <div class="card-body">
-            <h2>Link</h2>
-            <!-- <p>Este local não possui sites ou redes sociais</p> -->
-            <div id="local-link"></div>
-          </div>
-        </div>
+      <div class="col-sm-12 col-lg-5" id="place">
+        <!-- Place Info -->
       </div>
       <div class="col-sm-12 col-lg-5">
         <div class="card my-5 py-3" style="border-radius: 20px">
           <div class="card-body">
             <h5 class="card-title">Fotos</h5>
           </div>
-          <img
-            src="assets/img/praça-da-liberdade-1.jpg"
-            class="img-fluid p-4"
-            style="border-radius: 40px"
-            alt="..."
-          />
-          <img
-            src="assets/img/praça-da-liberdade-2.jpg"
-            class="img-fluid p-4"
-            style="border-radius: 40px"
-            alt="..."
-          />
+          <div id="place_imgs">
+            <!-- Place images -->
+          </div>
         </div>
       </div>
     </main>
+
     <footer class="py-3 bg-light">
       <ul class="nav justify-content-center py-1">
         <li class="nav-item">
@@ -145,11 +104,12 @@
         &copy; 2022 - Tour<span class="spotlight-text">Tip</span>
       </p>
     </footer>
+
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
       crossorigin="anonymous"
     ></script>
-    <script src="assets/js/local.js"></script>
+    <script src="assets/js/local2.js"></script>
   </body>
 </html>

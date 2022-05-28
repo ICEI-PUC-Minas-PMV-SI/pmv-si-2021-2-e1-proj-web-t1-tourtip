@@ -5,12 +5,18 @@
     "description": "Belo Horizonte é um município brasileiro e a capital do estado de Minas Gerais. Sua população estimada pelo IBGE para 1.º de julho de 2021 era de 2 530 701 habitantes, sendo o sexto município mais populoso do país, o terceiro da Região Sudeste e primeiro de seu estado.Com uma área de aproximadamente 331 km², possui uma geografia diversificada, com morros e baixadas. Com uma distância de 716 quilômetros de Brasília, é a segunda capital de estado mais próxima da capital federal, depois de Goiânia.",
     "places": [
       {
+        "category": "bh_turisticos",
+        "id": "0",
         "name": "Lagoa da Pampulha"
       },
       {
+        "category": "bh_turisticos",
+        "id": "2",
         "name": "Praça da Liberdade"
       },
       {
+        "category": "bh_turisticos",
+        "id": "16",
         "name": "Mineirão"
       }
     ],
@@ -32,13 +38,19 @@
     "description": "Contagem é um município brasileiro do estado de Minas Gerais, Região Sudeste do país. Pertence à Região Metropolitana de Belo Horizonte e é o terceiro município mais populoso do estado, reunindo 673 849 habitantes, segundo estimativa de 2021.",
     "places": [
       {
+        "category": "ctg_parquespublicos",
+        "id": "0",
         "name": "Parque Ecológico Eldorado"
       },
       {
-        "name": "Igreja Matriz São Gonçalo"
+        "category": "ctg_turisticos",
+        "id":"0",
+        "name": "Igreja Matriz de São Gonçalo"
       },
       {
-        "name": "Centro Cultural"
+        "category": "ctg_turisticos",
+        "id": "2",
+        "name": "Centro Cultural Prefeito Francisco Firmo de Mattos"
       }
     ],
     "categories": [
@@ -59,13 +71,19 @@
     "description": "Betim é um município brasileiro do estado de Minas Gerais, Região Sudeste do país. Pertence à Região Metropolitana de Belo Horizonte e é o quinto município mais populoso do estado, reunindo 450 024 habitantes segundo estimativa de 2021.",
     "places": [
       {
+        "category": "btm_turisticos",
+        "id": "1",
         "name": "Praça do Encontro"
       },
       {
+        "category": "btm_turisticos",
+        "id": "0",
         "name": "Praça Milton Campos"
       },
       {
-        "name": "Casa da Cultura"
+        "category": "btm_turisticos",
+        "id": "2",
+        "name": "Casa da Cultura Josephina Bento"
       }
     ],
     "categories": [

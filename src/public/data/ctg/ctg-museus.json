@@ -1,23 +1,33 @@
 [
-	{
+    {
         "id": "0",
         "name": "Museu Meireles",
         "address": "R. Bernardo Monteiro, 446 - Santa Edwiges, Contagem MG, 32040-250",
-        "link": "https://www.benditoguia.com.br/empresa/museu-meireles-santa-edwiges-contagem-mg"
+        "link": "https://www.benditoguia.com.br/empresa/museu-meireles-santa-edwiges-contagem-mg",
+        "imgs": [
+            "",
+            ""
+        ]
     },
-
     {
         "id": "1",
         "name": "Beco do Cinema",
         "address": "Tv. C 2 - Eldorado, Contagem MG, 32310-370",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
-
     {
         "id": "2",
         "name": "Museu Histórico De Contagem",
         "address": "Praça Vereador Josias Belém, 02 - Sede, Contagem MG, 32017-671",
-	    "contact": "(31) 3398-7350",
-        "link": "Não ha links para esse local"
+        "contact": "(31) 3398-7350",
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     }
 ]

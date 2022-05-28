@@ -3,102 +3,170 @@
         "id": "0",
         "name": "Lagoa da Pampulha",
         "address": "Av. Otacílio Negrão de Lima, s/n - São Luiz, Belo Horizonte - MG, 31365-450 Horas: Aberto 24 horas",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "1",
         "name": "Mirante do Mangabeiras",
         "address": "R. Pedro José Pardo, 1000 - Mangabeiras, Belo Horizonte - MG, 47512-000 terça-feira a domingo de 09:00–17:30",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "2",
         "name": "Praça da Liberdade",
         "address": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte - MG, 30140-010 Aberto 24 horas",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "3",
         "name": "Memorial Minas Gerais Vale",
         "address": "Praça da Liberdade, 640 - Savassi, Belo Horizonte - MG, 30140-010",
-        "link": "https://memorialvale.com.br/pt"
+        "link": "https://memorialvale.com.br/pt",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "4",
         "name": "Praça Governador Israel Pinheiro (Praça do Papa)",
         "address": "Av. Agulhas Negras, s/n - Mangabeiras, Belo Horizonte - MG, 30210-060 Aberto 24",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "5",
         "name": "Parque da Serra do Curral",
         "address": "Av. José do Patrocínio Pontes, 1951 - Mangabeiras, Belo Horizonte - MG, 30210-090",
-        "link": "http://portalbelohorizonte.com.br/o-que-fazer/ao-ar-livre-e-esportes/parque/parque-da-serra-do-curral"
+        "link": "http://portalbelohorizonte.com.br/o-que-fazer/ao-ar-livre-e-esportes/parque/parque-da-serra-do-curral",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "6",
         "name": "Casa do Baile - Centro de Referência de Arquitetura, Urbanismo e Design",
         "address": "Av. Otacílio Negrão de Lima, 751 - Pampulha, Belo Horizonte - MG, 31365-450",
-        "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casadobaile"
+        "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casadobaile",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "7",
         "name": "Museu de Arte da Pampulha (MAP)",
         "address": "Av. Otacílio Negrão de Lima, 16585 - Pampulha, Belo Horizonte - MG, 31365-450",
-        "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/map"
+        "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/map",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "8",
         "name": "Centro Cultural Banco do Brasil",
         "address": "Praça da Liberdade, 450 - Funcionários, Belo Horizonte - MG, 30140-010",
-        "link": "https://ccbb.com.br"
+        "link": "https://ccbb.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "9",
         "name": "Parque Municipal das Mangabeiras",
         "address": "Av. José do Patrocínio Pontes, 580 - Mangabeiras, Belo Horizonte - MG, 30210-090",
-        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-das-mangabeiras"
+        "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-das-mangabeiras",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "10",
         "name": "Palácio das Artes",
         "address": "Av. Afonso Pena, 1537 - Centro, Belo Horizonte - MG, 30130-004",
-        "link": "https://fcs.mg.gov.br"
+        "link": "https://fcs.mg.gov.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "11",
         "name": "Praça da Savassi",
         "address": "Savassi, Belo Horizonte - MG, 30130-151 Horas:  Aberto 24 horas",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "12",
         "name": "Espaço do Conhecimento UFMG",
         "address": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte - MG, 30140-010",
-        "link": "https://www.ufmg.br/espacodoconhecimento"
+        "link": "https://www.ufmg.br/espacodoconhecimento",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "13",
         "name": "Praça Sete de Setembro",
         "address": "Praça Sete de Setembro, s/n - Centro, Belo Horizonte - MG, 30160-041 Aberto 24 horas",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "14",
         "name": "Feira Hippie",
         "address": "Av. Afonso Pena, 1132 - Centro, Belo Horizonte - MG, 30130-003 Domingo de 07 as 14 horas",
-        "link": "https://feirahippie.com"
+        "link": "https://feirahippie.com",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "15",
         "name": "Mercado Central de Belo Horizonte",
         "address": "Av. Augusto de Lima, 744 - Centro, Belo Horizonte - MG, 30190-922",
-        "link": "https://mercadocentral.com.br"
+        "link": "https://mercadocentral.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "16",
         "name": "Mineirão",
         "address": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000 (Excetos dias de jogos e eventos no Mineirão, consultar disponibilidade no site www.meumineirao.com.br)",
-        "link": "http://estadiomineirao.com.br/museu-e-visita/visita-guiada"
+        "link": "http://estadiomineirao.com.br/museu-e-visita/visita-guiada",
+        "imgs": [
+            "",
+            ""
+        ]
     }
 ]

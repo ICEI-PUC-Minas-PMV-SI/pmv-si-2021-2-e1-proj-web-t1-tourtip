@@ -30,7 +30,7 @@ fetch(specificCityURL)
     for (let i = 0; i < specific_city[id].places.length; i++) {
       specific_city_places_list += `      
       <div class="card-body text-center">
-        <a href="">
+        <a href="local.html?ct=${specific_city[id].places[i].category}&id=${specific_city[id].places[i].id}">
           <button type="button" class="btn btn-success home-item_card-button px-5 py-2">${specific_city[id].places[i].name}</button>
         </a>
       </div>

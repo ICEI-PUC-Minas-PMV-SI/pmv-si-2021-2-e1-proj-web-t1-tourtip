@@ -1,43 +1,67 @@
-[    
+[
 	{
-        "id": "0",
-        "name": "Bar E Restaurante Tcha Tcha Tcha",
-        "address": "Av. Amazonas, 1395 - Centro, Betim - MG, 32600-3251",
-	"contact": "(31) 3531-1092",
-        "link": "https://pt-br.facebook.com/pages/category/Bar/Bar-E-Restaurante-Tcha-Tcha-Tcha-760357650767101/"
-    	},
-	{
-	"id": "1",
-        "name": "Dona Fulô Betim",
-        "address": "R. do Rosário, 167 - Angola, Betim - MG, 32604-215",
-	"contact": "(31) 3787-2077",
-        "link": "https://donafulo.com.br/"
+		"id": "0",
+		"name": "Bar E Restaurante Tcha Tcha Tcha",
+		"address": "Av. Amazonas, 1395 - Centro, Betim - MG, 32600-3251",
+		"contact": "(31) 3531-1092",
+		"link": "https://pt-br.facebook.com/pages/category/Bar/Bar-E-Restaurante-Tcha-Tcha-Tcha-760357650767101/",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "2",
-        "name": "Marreta Gastrobar",
-        "address": "R. do Rosário, 566 - Angola, Betim - MG, 32604-165",
-	"contact": "(31) 97329-9596",
-        "link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/"
+		"id": "1",
+		"name": "Dona Fulô Betim",
+		"address": "R. do Rosário, 167 - Angola, Betim - MG, 32604-215",
+		"contact": "(31) 3787-2077",
+		"link": "https://donafulo.com.br/",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "3",
-        "name": "Bar Do Renato",
-        "address": "R. do Rosário, 503 - Angola, Betim - MG, 32604-160",
-	"link": "https://www.instagram.com/accounts/login/?next=/bardorenatobetim/"
+		"id": "2",
+		"name": "Marreta Gastrobar",
+		"address": "R. do Rosário, 566 - Angola, Betim - MG, 32604-165",
+		"contact": "(31) 97329-9596",
+		"link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "4",
-        "name": "Duarte Comedoria",
-        "address": "R. do Rosário, 566 - Angola, Betim - MG, 32604-165",
-	"contact": "(31) 97329-9596",
-        "link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/"
+		"id": "3",
+		"name": "Bar Do Renato",
+		"address": "R. do Rosário, 503 - Angola, Betim - MG, 32604-160",
+		"link": "https://www.instagram.com/accounts/login/?next=/bardorenatobetim/",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "5",
-        "name": "Rosario Bar",
-        "address": "R. do Rosário, 650 - Angola, Betim - MG, 32604-160",
-	"contact": "(31) 99244-6950",
-        "link": "https://www.instagram.com/accounts/login/?next=/rosariobarbetim/"
+		"id": "4",
+		"name": "Duarte Comedoria",
+		"address": "R. do Rosário, 566 - Angola, Betim - MG, 32604-165",
+		"contact": "(31) 97329-9596",
+		"link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/",
+		"imgs": [
+				"",
+				""
+		]
+	},
+	{
+		"id": "5",
+		"name": "Rosario Bar",
+		"address": "R. do Rosário, 650 - Angola, Betim - MG, 32604-160",
+		"contact": "(31) 99244-6950",
+		"link": "https://www.instagram.com/accounts/login/?next=/rosariobarbetim/",
+		"imgs": [
+				"",
+				""
+		]
 	}
 ]

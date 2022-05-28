@@ -3,30 +3,50 @@
         "id": "0",
         "name": "Glouton",
         "address": "Rua Bárbara Heliodora, 59 - Lourdes, Belo Horizonte - MG, 30180-130",
-        "link": "https://www.glouton.com.br"
+        "link": "https://www.glouton.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "1",
         "name": "Paladino",
         "address": "Av. Gildo Macedo Lacerda, 300 - Braúnas, Belo Horizonte - MG, 31365-745",
-        "link": "http://restaurantepaladino.com.br"
+        "link": "http://restaurantepaladino.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "2",
         "name": "Coco Bambu BH Anchieta",
         "address": "R. Francisco Deslandes, 900 - Anchieta, Belo Horizonte - MG, 30310-530",
-        "link": "https://cocobambu.com/unidades/belo-horizonte"
+        "link": "https://cocobambu.com/unidades/belo-horizonte",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "3",
         "name": "Gastrô Hub",
         "address": "Av. do Contorno, 4667 - Serra, Belo Horizonte - MG, 30220-040",
-        "link": "https://www.instagram.com/accounts/login/?next=/gastrohub.bh"
+        "link": "https://www.instagram.com/accounts/login/?next=/gastrohub.bh",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "4",
         "name": "Restaurante Xapuri",
         "address": "Rua Mandacarú, 260 - Trevo, Belo Horizonte - MG, 31370-270",
-        "link": "https://restaurantexapuri.negocio.site/?utm_source=gmb&utm_medium=referral"
+        "link": "https://restaurantexapuri.negocio.site/?utm_source=gmb&utm_medium=referral",
+        "imgs": [
+            "",
+            ""
+        ]
     }
 ]

@@ -24,7 +24,6 @@ fetch(citiesURL)
         </div>
       </div>
       `;
-
       citiesList.innerHTML = cities_list;
     }
   })

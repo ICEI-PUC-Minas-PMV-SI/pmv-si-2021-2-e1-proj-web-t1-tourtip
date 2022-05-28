@@ -1,33 +1,52 @@
 [
-{
-	"id": "0",
-        "name": "Museu Paulo Araújo Moreira Gontijo",
-        "address": "Avenida Governador Valadares 115 | Centro, Betim, Minas Gerais 32600-035",
-	"link": "Não ha links para esse local"
-	},
-
 	{
-	"id": "1",
-        "name": "Casa da Cultura Josephina Bento",
-        "address": "Av. Padre Osório Braga, 18 - Centro Betim MG, 32600-174 ",
-	"link": "Não ha links para esse local"
+		"id": "0",
+		"name": "Museu Paulo Araújo Moreira Gontijo",
+		"address": "Avenida Governador Valadares 115 | Centro, Betim, Minas Gerais 32600-035",
+		"link": "Não ha links para esse local",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "2",
-        "name": "Museu Paulo Araújo Moreira Gontijo",
-        "address": "Avenida Governador Valadares 115 | Centro, Betim, Minas Gerais 32600-035",
-	"link": "Não ha links para esse local"
+		"id": "1",
+		"name": "Casa da Cultura Josephina Bento",
+		"address": "Av. Padre Osório Braga, 18 - Centro Betim MG, 32600-174 ",
+		"link": "Não ha links para esse local",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "3",
-        "name": "Museu Luís Verganim",
-        "address": "Rua Emilo Ribas, 570 – Colônia Santa Isabel, Betim – MG, 32641-284",
-	"link": "Não ha links para esse local"
+		"id": "2",
+		"name": "Museu Paulo Araújo Moreira Gontijo",
+		"address": "Avenida Governador Valadares 115 | Centro, Betim, Minas Gerais 32600-035",
+		"link": "Não ha links para esse local",
+		"imgs": [
+				"",
+				""
+		]
 	},
 	{
-	"id": "4",
-        "name": " Teatro Municipal Newton Amaral Franco",
-        "address": "Av. Padre Osório Braga, 149 - Centro, Betim - MG, 32656-506",
-	"link": "Não ha links para esse local"
+		"id": "3",
+		"name": "Museu Luís Verganim",
+		"address": "Rua Emilo Ribas, 570 – Colônia Santa Isabel, Betim – MG, 32641-284",
+		"link": "Não ha links para esse local",
+		"imgs": [
+				"",
+				""
+		]
+	},
+	{
+		"id": "4",
+		"name": " Teatro Municipal Newton Amaral Franco",
+		"address": "Av. Padre Osório Braga, 149 - Centro, Betim - MG, 32656-506",
+		"link": "Não ha links para esse local",
+		"imgs": [
+				"",
+				""
+		]
 	}
 ]

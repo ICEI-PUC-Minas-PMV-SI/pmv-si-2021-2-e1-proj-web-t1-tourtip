@@ -1,40 +1,55 @@
 [
-	{
+    {
         "id": "0",
         "name": "Igreja Matriz de São Gonçalo",
         "address": "R. Bueno Brandão, 40 - Centro, Contagem MG, 32041-310",
-	    "contact": "(31) 3398-1504",
-        "link": "https://www.paroquiasaogoncalocontagem.com/"
+        "contact": "(31) 3398-1504",
+        "link": "https://www.paroquiasaogoncalocontagem.com/",
+        "imgs": [
+            "",
+            ""
+        ]
     },
-
     {
         "id": "1",
         "name": "Casa da Cultura Nair Mendes Moreira",
         "address": " Praça Vereador Josias Belém, 01 - Sede, Contagem MG, 32017-670",
-	    "contact": "(31) 3352-5323",
-	    "link": "Não ha links para esse local"
+        "contact": "(31) 3352-5323",
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
-
     {
         "id": "2",
         "name": "Centro Cultural Prefeito Francisco Firmo de Mattos",
         "address": "R. Dr. Cassiano, 120 - Centro, Contagem MG, 32017-235",
-	    "contact": "(31) 3352-5357",
-        "link": "http://www.ipatrimonio.org/contagem-conjunto-centro-cultural-prefeito-francisco-firmo-de-mattos-filho/"
+        "contact": "(31) 3352-5357",
+        "link": "http://www.ipatrimonio.org/contagem-conjunto-centro-cultural-prefeito-francisco-firmo-de-mattos-filho/",
+        "imgs": [
+            "",
+            ""
+        ]
     },
-
     {
         "id": "3",
         "name": "Feira de Artesanato Eldorado",
         "address": "Rua Portugal - Jardim Vera Cruz, Contagem MG, 32265-320",
-        "link": "http://www.cmc.mg.gov.br/?p=10097"
+        "link": "http://www.cmc.mg.gov.br/?p=10097",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
-
         "id": "3",
         "name": "Casa dos Cacos",
         "address": "R. Inês Glansman de Almeida, 132 - Fonte Grande, Contagem MG, 32013-380",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     }
- 
 ]

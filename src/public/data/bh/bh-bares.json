@@ -3,54 +3,90 @@
         "id": "0",
         "name": "Jack Rock Bar",
         "address": "Av. do Contorno, 5623 - Funcionários, Belo Horizonte - MG, 30110-035",
-        "link": "Não ha links para esse local"
+        "link": "Não ha links para esse local",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "1",
         "name": "Bar Do Museu Clube Da Esquina",
         "address": "R. Paraisópolis, 738 - Santa Tereza, Belo Horizonte - MG, 31010-330",
-        "link": "https://bardomuseuclubedaesquina.com.br"
+        "link": "https://bardomuseuclubedaesquina.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "2",
         "name": "Bar Entre Folhas",
         "address": "R. Maj. Lopes, 709 - São Pedro, Belo Horizonte - MG, 30330-050",
-        "link": "https://www.instagram.com/entrefolhas"
+        "link": "https://www.instagram.com/entrefolhas",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "3",
         "name": "Pompéu bar",
         "address": "R. São Miguel, 779 - Itapoã, Belo Horizonte - MG, 31710-750",
-        "link": "https://www.instagram.com/barpompeu"
+        "link": "https://www.instagram.com/barpompeu",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "4",
         "name": "Underground Black Pub",
         "address": "Av. Itaú, 540 - Dom Cabral, Belo Horizonte - MG, 30535-012",
-        "link": "https://www.instagram.com/undergroundblackpub"
+        "link": "https://www.instagram.com/undergroundblackpub",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "5",
         "name": "Jângal",
         "address": "R. Outono, 523 - Cruzeiro, Belo Horizonte - MG, 30310-020",
-        "link": "https://www.jangalbh.com"
+        "link": "https://www.jangalbh.com",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "6",
         "name": "Café com Letras",
         "address": "R. Antônio de Albuquerque, 781 - Savassi, Belo Horizonte - MG, 30112-010",
-        "link": "https://www.cafecomletras.com.br"
+        "link": "https://www.cafecomletras.com.br",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "7",
         "name": "Mr. Hoppy",
         "address": "Praça Tiradentes, 41 - Funcionários, Belo Horizonte - MG, 30130-020",
-        "link": "https://www.instagram.com/accounts/login/?next=/mrhoppysion"
+        "link": "https://www.instagram.com/accounts/login/?next=/mrhoppysion",
+        "imgs": [
+            "",
+            ""
+        ]
     },
     {
         "id": "8",
         "name": "Saruê",
         "address": "Av. Altamiro Avelino Soares, 1257 - Castelo, Belo Horizonte - MG, 31330-000",
-        "link": "https://www.facebook.com/Saruebh"
+        "link": "https://www.facebook.com/Saruebh",
+        "imgs": [
+            "",
+            ""
+        ]
     }
 ]
