@@ -5,8 +5,8 @@
         "address": "Endereço: entre, Av. Edméia Matos Lazaroti, Av. Juiz Marco Túlio Isaac, Betim - MG, 32550-770",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/praca-milton-campos-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/praca-milton-campos-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "Endereço: Praça Milton Campos, s/n - centro, Betim- MG - Aberto 24 horas",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/praça-do-encontro-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/praça-do-encontro-2.jpg"
         ]
     },
     {
@@ -25,28 +25,28 @@
         "address": "Av. Padre Osório Braga, 18 - Centro, Betim - MG, 32600-174 ",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-2.jpg"
         ]
     },
     {
         "id": "3",
         "name": "Horto Municipal Homero Gomes do Amaral",
-        "address": "R. Redelvim Andrade, 300 – Horto, Betim – MG, 32604-142, próximo ao local: Ginásio Poliesportivo Divino Braga, Pista de Skate, Praça do Encontro. Entrada franca.",
+        "address": "R. Redelvim Andrade, 300 - Horto, Betim - MG, 32604-142, próximo ao local: Ginásio Poliesportivo Divino Braga, Pista de Skate, Praça do Encontro. Entrada franca.",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/horto-municipal-homero-gomes-do-amaral-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/horto-municipal-homero-gomes-do-amaral-2.jpg"
         ]
     },
     {
         "id": "4",
         "name": "Pista de Skate",
-        "address": "Entre avenida Edmeia Matos Lazzarotti e rua Redelvim Andrade – Angola, Betim, Entrada franca.",
+        "address": "Entre avenida Edmeia Matos Lazzarotti e rua Redelvim Andrade - Angola, Betim, Entrada franca.",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/pista-de-skate-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/pista-de-skate-2.jpg"
         ]
     },
     {
@@ -56,8 +56,8 @@
         "contact": "Telefone: (31) 3511-2373 (31) 99884-2898",
         "link": "Não ha links para esse local",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/turisticos/kartódromo-internacional-de-betim-1.jpg",
+            "/src/public/assets/img/btm-photos/turisticos/kartódromo-internacional-de-betim-2.jpg"
         ]
     }
 ]

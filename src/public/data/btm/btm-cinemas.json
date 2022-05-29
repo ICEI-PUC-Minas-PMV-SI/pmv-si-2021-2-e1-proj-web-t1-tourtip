@@ -5,8 +5,8 @@
         "address": "Av. Juiz Marco Tulio Isaac, 1119 - Bairro: Ingá Alto - Betim - CEP: 32604-345",
         "link": "https://www.cineart.com.br/cinema/cineart-monte-carmo",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/cinemas/monte-carmo-shopping-1.jpg",
+            "/src/public/assets/img/btm-photos/cinemas/monte-carmo-shopping-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "BR 381 – Rod. Fernão Dias, Km 492, 601, bairro São João - Betim/MG",
         "link": "https://www.cinemark.com.br/betim/cinemas",
         "imgs": [
-            "",
-            ""
+            "/src/public/assets/img/btm-photos/cinemas/partage-shopping-1.jpg",
+            "/src/public/assets/img/btm-photos/cinemas/partage-shopping-2.jpg"
         ]
     }
 ]

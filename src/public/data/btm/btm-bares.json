@@ -6,8 +6,8 @@
 		"contact": "(31) 3531-1092",
 		"link": "https://pt-br.facebook.com/pages/category/Bar/Bar-E-Restaurante-Tcha-Tcha-Tcha-760357650767101/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/bar-e-restaurante-tcha-tcha-tcha-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/bar-e-restaurante-tcha-tcha-tcha-2.jpg"
 		]
 	},
 	{
@@ -17,8 +17,8 @@
 		"contact": "(31) 3787-2077",
 		"link": "https://donafulo.com.br/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/dona-fulô-betim-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/dona-fulô-betim-2.jpg"
 		]
 	},
 	{
@@ -28,8 +28,8 @@
 		"contact": "(31) 97329-9596",
 		"link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/marreta-gastrobar-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/marreta-gastrobar-2.jpg"
 		]
 	},
 	{
@@ -38,8 +38,8 @@
 		"address": "R. do Rosário, 503 - Angola, Betim - MG, 32604-160",
 		"link": "https://www.instagram.com/accounts/login/?next=/bardorenatobetim/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/bar-do-renato-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/bar-do-renato-2.jpg"
 		]
 	},
 	{
@@ -49,8 +49,8 @@
 		"contact": "(31) 97329-9596",
 		"link": "https://www.instagram.com/accounts/login/?next=/marretagastrobar/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/duarte-comedoria-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/duarte-comedoria-2.jpg"
 		]
 	},
 	{
@@ -60,8 +60,8 @@
 		"contact": "(31) 99244-6950",
 		"link": "https://www.instagram.com/accounts/login/?next=/rosariobarbetim/",
 		"imgs": [
-				"",
-				""
+			"/src/public/assets/img/btm-photos/bares/rosario-bar-1.jpg",
+			"/src/public/assets/img/btm-photos/bares/rosario-bar-2.jpg"
 		]
 	}
 ]
