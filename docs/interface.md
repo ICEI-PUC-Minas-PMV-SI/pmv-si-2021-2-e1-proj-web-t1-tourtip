@@ -11,7 +11,7 @@ O modelo acima tem a intenção de apresentar o fluxo de navegação do site, mo
 
 ## Wireframes
 
-<img src="https://i.ibb.co/WFgr82y/Screenshot-from-2022-04-30-13-55-48.png" border="0">
+<img src="https://i.ibb.co/9NYqh9q/Screenshot-from-2022-05-28-19-15-14.png" border="0">
 
 O protótipo apresentado representa o design final do layout da página, aplicando o exemplo dado anteriormente com o User Flow, porém estilizado com o template padrão do site.
 Este design foi usado como base para o desenvolvimento da página e propôe-se a ficar o mais fiel possivel com o produto final.

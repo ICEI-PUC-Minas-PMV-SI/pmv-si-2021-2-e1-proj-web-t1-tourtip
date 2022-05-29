@@ -1,25 +1,31 @@
 [
     {
+        "id": 0,
         "name": "Cinemas",
         "img": "/src/public/assets/img/categories/cinemas.jpg"
     },
     {
+        "id": 1,   
         "name": "Bares",
         "img": "/src/public/assets/img/categories/bares.jpg"
     },
     {
+        "id": 2,
         "name": "Restaurantes",
         "img": "/src/public/assets/img/categories/restaurantes.jpg"
     },
     {
+        "id": 3,
         "name": "Museus",
         "img": "/src/public/assets/img/categories/museus.jpg"
     },
     {
+        "id": 4,
         "name": "Parques Públicos",
         "img": "/src/public/assets/img/categories/parques_publicos.jpg"
     },
     {
+        "id": 4,
         "name": "Pontos Turisticos",
         "img": "/src/public/assets/img/categories/pontos_turisticos.jpg"
     }
