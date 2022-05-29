@@ -2,7 +2,7 @@ const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const id = urlParams.get('id');
 
-const specificCityURL = 'http://localhost:3000/categoria';
+const specificCityURL = 'http://localhost:3000/categoria_especificas';
 const categoriesList = document.querySelector('#specific-categories');
 const categoriesPlacesList = document.querySelector('#specific-categories-places');
 const CategoriesPlaces = document.querySelector('#specific-categories');
@@ -26,10 +26,10 @@ fetch(specificCategoriesURL)
         <p>${specific_categories[id].description}</p>
       </div>
     `;
-    citiesList.innerHTML = specific_city_list;
+    citiesList.innerHTML = specific_categories_list;
 
     for (let i = 0; i < specific_categories[id].places.length; i++) {
-      specific_categories_places_list += `      
+      specific_categories_list += `      
       <div class="card-body text-center">
         <a href="local.html?ct=${specific_city[id].places[i].category}&id=${specific_city[id].places[i].id}">
         <button type="button" class="btn btn-success home-item_card-button px-5 py-2">${specific_categories[id].places[i].name}</button>
@@ -40,7 +40,7 @@ fetch(specificCategoriesURL)
     }
 
     for (let i = 0; i < specific_categories[id].categories.length; i++) {
-      specific_categories_places_categories += `
+      specific_categories_places_lis += `
       <div class="card-body text-center">
         <a href="">
           <button type="button" class="btn btn-success home-item_card-button px-5 py-2">
