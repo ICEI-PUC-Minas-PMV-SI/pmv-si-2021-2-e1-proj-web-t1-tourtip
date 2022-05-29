@@ -15,7 +15,6 @@ O TourTip visa entregar aos usuários uma experiência agradável e simplificada
 * Alexandre Guzmán Siácara
 * Ana Paula Sena
 * Arthur Ramos Garcia
-* Gleyvison Antônio Anselmo
 * Henrique de Paula Lima
 * Igor Moraes Torres
 * Lucas Vinicius Oliveira Mendes
