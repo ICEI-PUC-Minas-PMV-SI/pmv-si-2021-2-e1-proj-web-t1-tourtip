@@ -15,7 +15,7 @@ fetch(URL)
             </div>
             <img src="${categories[i].img}" class="img-fluid p-2" style="border-radius: 20px;" alt="Foto de esportes">
             <div class="card-body text-center">
-              <a href="">
+              <a href="categoria-especifica.html?cg=${categories[i].category}">
                 <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
               </a>
             </div>

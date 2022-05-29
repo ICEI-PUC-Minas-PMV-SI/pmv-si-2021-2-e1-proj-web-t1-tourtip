@@ -75,7 +75,7 @@
         "address": "Av. Otacílio Negrão de Lima, 16585 - Pampulha, Belo Horizonte - MG, 31365-450",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/map",
         "imgs": [
-            "/src/public/assets/img/bh-photos/turismo/museu-da-arte-da-pampulha-1.jpg",
+            "/src/public/assets/img/bh-photos/turismo/museu-de-arte-da-pampulha-1.jpg",
             "/src/public/assets/img/bh-photos/turismo/museu-da-arte-da-pampulha-2.jpg"
         ]
     },
@@ -125,8 +125,8 @@
         "address": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte - MG, 30140-010",
         "link": "https://www.ufmg.br/espacodoconhecimento",
         "imgs": [
-            "/src/public/assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-1",
-            "/src/public/assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-2"
+            "/src/public/assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-1.jpg",
+            "/src/public/assets/img/bh-photos/turismo/espaço-do-conhecimento-ufmg-2.jpg"
         ]
     },
     {

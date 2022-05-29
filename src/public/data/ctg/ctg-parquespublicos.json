@@ -4,13 +4,21 @@
     "name": "Parque Ecológico Eldorado",
     "address": "R. Paineiras, 753 - Eldorado, Contagem - MG, 32310-400",
     "contact": "(31) 3392-1372",
-    "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-ecologico-do-eldorado"
+    "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-ecologico-do-eldorado",
+    "imgs": [
+      "",
+      ""
+    ]
   },
   {
     "id": "1",
     "name": "Parque Fernão Dias",
     "address": "Parque Fernão Dias, R. Rio Comprido, 5, Contagem MG",
-    "link": "Não ha links para esse local"
+    "link": "Não ha links para esse local",
+    "imgs": [
+      "",
+      ""
+    ]
   },
   {
     "id": "2",
@@ -74,7 +82,7 @@
     ]
   },
   {
-    "id": "7",
+    "id": "8",
     "name": "Parque Municipal Gentil Diniz",
     "address": "Rua Maria do Carmo Diniz, 141 - Nossa Senhora do Carmo CEP 32.015-780 - Contagem MG",
     "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-municipal-gentil-diniz",
