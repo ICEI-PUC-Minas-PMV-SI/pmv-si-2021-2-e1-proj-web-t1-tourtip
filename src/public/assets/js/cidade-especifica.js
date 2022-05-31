@@ -29,10 +29,22 @@ fetch(specificCityURL)
 
     for (let i = 0; i < specific_city[id].places.length; i++) {
       specific_city_places_list += `      
-      <div class="card-body text-center">
-        <a href="local.html?ct=${specific_city[id].places[i].category}&id=${specific_city[id].places[i].id}">
-          <button type="button" class="btn btn-success home-item_card-button px-5 py-2">${specific_city[id].places[i].name}</button>
-        </a>
+      <div class="card-body text-center">            
+        <div class="row justify-content-around align-items-center card-body text-center p-0">
+          <div class="col-lg-6">
+            <img class="img-fluid" style="border-radius: 20px" src="${specific_city[id].places[i].imgs[0]}">
+          </div>
+          <div class="col-lg-6 d-flex flex-column">
+            <div>
+              <h2 class="text-center">${specific_city[id].places[i].name}<h2>
+            </div>
+            <div>
+              <a href="local.html?ct=${specific_city[id].places[i].category}&id=${specific_city[id].places[i].id}">
+                <button type="button" class="btn btn-success home-item_card-button my-3 px-5 py-2">Explorar</button>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
       `;
       citiesPlacesList.innerHTML = specific_city_places_list;
@@ -40,10 +52,22 @@ fetch(specificCityURL)
 
     for (let i = 0; i < specific_city[id].categories.length; i++) {
       specific_city_places_categories += `
-      <div class="card-body text-center">
-        <a href="">
-          <button type="button" class="btn btn-success home-item_card-button px-5 py-2">${specific_city[id].categories[i].name}</button>
-        </a>
+      <div class="card-body text-center">            
+        <div class="row justify-content-around align-items-center card-body text-center p-0">
+          <div class="col-lg-6">
+            <img class="img-fluid" style="border-radius: 20px" src="${specific_city[id].categories[i].imgs[0]}">
+          </div>
+          <div class="col-lg-6 d-flex flex-column">
+            <div>
+              <h2 class="text-center">${specific_city[id].categories[i].name}<h2>
+            </div>
+            <div>
+              <a href="categoria-especifica.html?cg=${specific_city[id].categories[i].category}">
+                <button type="button" class="btn btn-success home-item_card-button my-3 px-5 py-2">Explorar</button>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
       `;
       citiesPlacesCategories.innerHTML = specific_city_places_categories;
