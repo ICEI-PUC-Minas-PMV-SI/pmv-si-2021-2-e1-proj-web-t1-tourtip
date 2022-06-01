@@ -43,3 +43,5 @@ module.exports = () => ({
   btm_restaurantes: btm_restaurantes,
   btm_turisticos: btm_turisticos
 });
+
+console.log("JSON Server running...");
