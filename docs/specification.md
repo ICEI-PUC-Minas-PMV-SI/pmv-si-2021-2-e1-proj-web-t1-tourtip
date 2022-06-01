@@ -52,7 +52,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Possuir dados estáticos que não necessitem de interações constantes com bancos de dados para serem acessados | ALTA | 
 |RF-002| Possuir fácil acesso a links com localizações dos locais | MÉDIA |
-|RF-003| Possuir uma função de pesquisa por palavras-chaves de conteúdos da página | MÉDIA |
+|RF-003| Possuir um carregamento de mapas dinâmicos para cada local | MÉDIA |
 |RF-004| Possuir opção de expandir as informações para maiores detalhes | MÉDIA |
 
 
