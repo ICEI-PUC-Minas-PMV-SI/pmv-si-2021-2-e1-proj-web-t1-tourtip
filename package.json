@@ -1,0 +1,22 @@
+{
+  "name": "pmv-si-2022-1-e1-proj-web-t1-tourtip",
+  "version": "1.0.0",
+  "description": "`CURSO: Sistemas de Informação`",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip/issues"
+  },
+  "homepage": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip#readme"
+}
