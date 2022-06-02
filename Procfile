@@ -1,1 +1,1 @@
-web: sh -c 'npm start && npm json-server-start'
+web: npm start && json-server --watch src/public/assets/js/index.js
