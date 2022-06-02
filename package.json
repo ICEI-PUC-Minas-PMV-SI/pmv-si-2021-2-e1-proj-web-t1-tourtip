@@ -7,17 +7,20 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node src/public/assets/js/index.js",
-    "json-server-start": "json-server --watch src/public/assets/js/index.js"
+    "start": "node src/public/assets/js/server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip/issues"
   },
-  "homepage": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip#readme"
+  "homepage": "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e1-proj-web-t1-tourtip#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
