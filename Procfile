@@ -1,1 +1,2 @@
-web: npm start && json-server --watch src/public/assets/js/index.js
+web: npm start
+web: npm json-server-start
