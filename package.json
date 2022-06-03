@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "json-server --watch src/public/assets/js/index.js"
+    "start": "node src/public/assets/js/server.js"
   },
   "repository": {
     "type": "git",
