@@ -5,8 +5,8 @@
         "address": "Av. do Contorno, 5623 - Funcionários, Belo Horizonte - MG, 30110-035",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/jack-rock-bar-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/jack-rock-bar-2.jpg"
+            "../../assets/img/bh-photos/bares/jack-rock-bar-1.jpg",
+            "../../assets/img/bh-photos/bares/jack-rock-bar-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "R. Paraisópolis, 738 - Santa Tereza, Belo Horizonte - MG, 31010-330",
         "link": "https://bardomuseuclubedaesquina.com.br",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-2.jpg"
+            "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-1.jpg",
+            "../../assets/img/bh-photos/bares/bar-do-museu-clube-da-esquina-2.jpg"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "address": "R. Maj. Lopes, 709 - São Pedro, Belo Horizonte - MG, 30330-050",
         "link": "https://www.instagram.com/entrefolhas",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/bar-entre-folhas-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/bar-entre-folhas-2.jpg"
+            "../../assets/img/bh-photos/bares/bar-entre-folhas-1.jpg",
+            "../../assets/img/bh-photos/bares/bar-entre-folhas-2.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "address": "R. São Miguel, 779 - Itapoã, Belo Horizonte - MG, 31710-750",
         "link": "https://www.instagram.com/barpompeu",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/pompeu-bar-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/pompeu-bar-2.jpg"
+            "../../assets/img/bh-photos/bares/pompeu-bar-1.jpg",
+            "../../assets/img/bh-photos/bares/pompeu-bar-2.jpg"
         ]
     },
     {
@@ -45,8 +45,8 @@
         "address": "Av. Itaú, 540 - Dom Cabral, Belo Horizonte - MG, 30535-012",
         "link": "https://www.instagram.com/undergroundblackpub",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/underground-black-pub-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/underground-black-pub-2.jpg"
+            "../../assets/img/bh-photos/bares/underground-black-pub-1.jpg",
+            "../../assets/img/bh-photos/bares/underground-black-pub-2.jpg"
         ]
     },
     {
@@ -55,8 +55,8 @@
         "address": "R. Outono, 523 - Cruzeiro, Belo Horizonte - MG, 30310-020",
         "link": "https://www.jangalbh.com",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/jangal-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/jangal-2.jpg"
+            "../../assets/img/bh-photos/bares/jangal-1.jpg",
+            "../../assets/img/bh-photos/bares/jangal-2.jpg"
         ]
     },
     {
@@ -65,8 +65,8 @@
         "address": "R. Antônio de Albuquerque, 781 - Savassi, Belo Horizonte - MG, 30112-010",
         "link": "https://www.cafecomletras.com.br",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/cafe-com-letras-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/cafe-com-letras-2.jpg"
+            "../../assets/img/bh-photos/bares/cafe-com-letras-1.jpg",
+            "../../assets/img/bh-photos/bares/cafe-com-letras-2.jpg"
         ]
     },
     {
@@ -75,8 +75,8 @@
         "address": "Praça Tiradentes, 41 - Funcionários, Belo Horizonte - MG, 30130-020",
         "link": "https://www.instagram.com/accounts/login/?next=/mrhoppysion",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/mr-hoppy-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/mr-hoppy-2.jpg"
+            "../../assets/img/bh-photos/bares/mr-hoppy-1.jpg",
+            "../../assets/img/bh-photos/bares/mr-hoppy-2.jpg"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "address": "Av. Altamiro Avelino Soares, 1257 - Castelo, Belo Horizonte - MG, 31330-000",
         "link": "https://www.facebook.com/Saruebh",
         "imgs": [
-            "/src/public/assets/img/bh-photos/bares/sarue-1.jpg",
-            "/src/public/assets/img/bh-photos/bares/sarue-2.jpg"
+            "../../assets/img/bh-photos/bares/sarue-1.jpg",
+            "../../assets/img/bh-photos/bares/sarue-2.jpg"
         ]
     }
 ]

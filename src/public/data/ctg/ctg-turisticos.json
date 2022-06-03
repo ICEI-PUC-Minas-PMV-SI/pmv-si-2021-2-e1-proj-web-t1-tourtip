@@ -6,8 +6,8 @@
         "contact": "(31) 3398-1504",
         "link": "https://www.paroquiasaogoncalocontagem.com/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto1.jpg",
-            "/src/public/assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto2.jpg"
+            "../../assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto1.jpg",
+            "../../assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto2.jpg"
         ]
     },
     {
@@ -17,8 +17,8 @@
         "contact": "(31) 3352-5323",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto1.jpg",
-            "/src/public/assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto2.jpg"
+            "../../assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto1.jpg",
+            "../../assets/img/ctg-photos/turismo/CasadaCulturaNairMendesMoreira foto2.jpg"
         ]
     },
     {
@@ -28,8 +28,8 @@
         "contact": "(31) 3352-5357",
         "link": "http://www.ipatrimonio.org/contagem-conjunto-centro-cultural-prefeito-francisco-firmo-de-mattos-filho/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/turismo/CentroCultural foto1.jpg",
-            "/src/public/assets/img/ctg-photos/turismo/CentroCultural foto2.jpg"
+            "../../assets/img/ctg-photos/turismo/CentroCultural foto1.jpg",
+            "../../assets/img/ctg-photos/turismo/CentroCultural foto2.jpg"
         ]
     },
     {
@@ -38,8 +38,8 @@
         "address": "Rua Portugal - Jardim Vera Cruz, Contagem MG, 32265-320",
         "link": "http://www.cmc.mg.gov.br/?p=10097",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto1.jpg",
-            "/src/public/assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto2.jpg"
+            "../../assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto1.jpg",
+            "../../assets/img/ctg-photos/turismo/FeiradeArtesanatoEldorado foto2.jpg"
         ]
     },
     {
@@ -48,8 +48,8 @@
         "address": "R. Inês Glansman de Almeida, 132 - Fonte Grande, Contagem MG, 32013-380",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/turismo/CasadosCacos foto1.jpg",
-            "/src/public/assets/img/ctg-photos/turismo/CasadosCacos foto2.jpg"
+            "../../assets/img/ctg-photos/turismo/CasadosCacos foto1.jpg",
+            "../../assets/img/ctg-photos/turismo/CasadosCacos foto2.jpg"
         ]
     }
 ]

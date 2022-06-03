@@ -5,8 +5,8 @@
         "address": "Av. Afonso Pena, 1377 - Centro, Belo Horizonte - MG, 30130-000 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-municipal-americo-renne-giannetti",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-municipal-americo-renne-giannetti-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "Av. José do Patrocínio Pontes, 580 - Mangabeiras, Belo Horizonte - MG, 30210-090 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-das-mangabeiras-2.jpg"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "address": "R. Augusto José dos Santos, 366 - Estrela do Oriente, Belo Horizonte - MG, 30580-100 Diariamente, das 7h às 18h",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-jacques-cousteau",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-municipal-jacques-cousteau-2.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "address": "R. Dep. Bernardino Sena Figueiredo, 1.022 - Cidade Nova, Belo Horizonte - MG, 31170-210 Abre quarta a domingo de 08:00 as 18:00",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-marcos-mazzoni-2.jpg"
         ]
     },
     {
@@ -45,8 +45,8 @@
         "address": "R. Min. Hermenegildo de Barros, 904 - Itapoã, Belo Horizonte - MG, 31710-230 Terça a domingo, das 6h40 às 17h",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-fazenda-lagoa-nado-bh-2.jpg"
         ]
     },
     {
@@ -55,8 +55,8 @@
         "address": "Av. Pres. Tancredo Neves, 2900 - Paquetá, Belo Horizonte - MG, 31330-910 (necessário agendamento e vacinação contra febre amarela. Entrada até às 16h30)",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-cassia-eller-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-cassia-eller-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-cassia-eller-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-cassia-eller-2.jpg"
         ]
     },
     {
@@ -65,8 +65,8 @@
         "address": "Av. Ximango, 809 - Flávio Marques Lisboa, Belo Horizonte – MG Terça a domingo, das 8h às 17h",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-das-aguas-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-das-aguas-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-das-aguas-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-das-aguas-2.jpg"
         ]
     },
     {
@@ -75,8 +75,8 @@
         "address": "Av. José Cleto, s/n - Palmares, Belo Horizonte - MG, 31155-470 (necessária a vacinação contra febre amarela) Terça a domingo, das 8h às 18h",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-renato-azeredo-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-renato-azeredo-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-renato-azeredo-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-renato-azeredo-2.jpg"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "address": "Av. Otacílio Negrão de Lima, 6061 - Pampulha, Belo Horizonte - MG, 31365-450 (necessária a vacinação contra febre amarela. Entrada até às 16h)",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanic",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-pampulha-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-pampulha-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-pampulha-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-pampulha-2.jpg"
         ]
     },
     {
@@ -95,8 +95,8 @@
         "address": "R. Cobre, 114 - Cruzeiro, Belo Horizonte - MG, 30330-190 Terça a domingo, das 8h às 17h",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/parque-amilcar-vianna-martins-2.jpg"
         ]
     },
     {
@@ -105,8 +105,8 @@
         "address": "Av. Otacílio Negrão de Lima, 8000 - Pampulha, Belo Horizonte - MG, 31365-450 Terça a doming, das 8h ás 17h",
         "link": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica",
         "imgs": [
-            "/src/public/assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-1.jpg",
-            "/src/public/assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-2.jpg"
+            "../../assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-1.jpg",
+            "../../assets/img/bh-photos/parquespublicos/fundação-de-parques-municipais-e-zoobotanica-de-belo-horizonte-2.jpg"
         ]
     }
 ]

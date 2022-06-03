@@ -6,8 +6,8 @@
     "contact": "(31) 3392-1372",
     "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-ecologico-do-eldorado",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto2.jpg"
     ]
   },
   {
@@ -16,8 +16,8 @@
     "address": "Parque Fernão Dias, R. Rio Comprido, 5, Contagem MG",
     "link": "Não ha links para esse local",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueFernãoDias foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueFernãoDias foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueFernãoDias foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueFernãoDias foto2.jpg"
     ]
   },
   {
@@ -27,8 +27,8 @@
     "contact": "(31) 3392-1372",
     "link": "Não ha links para esse local",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueEcológicoThiagoRodriguesRicardo foto2.jpg"
     ]
   },
   {
@@ -37,8 +37,8 @@
     "address": "Av. das Tulipas, s/n - Sapucaias, Contagem MG, 32071-122",
     "link": "Não ha links para esse local",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueSapucaias foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueSapucaias foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueSapucaias foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueSapucaias foto2.jpg"
     ]
   },
   {
@@ -47,8 +47,8 @@
     "address": "R. Quarenta e Dois, 430 - Tropical, Contagem MG, 32072-440",
     "link": "Não ha links para esse local",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueEcológicoAntônioPereiraCardoso foto2.jpg"
     ]
   },
   {
@@ -57,8 +57,8 @@
     "address": "Av. Severino Ballesteros, 623 - Ressaca, Contagem MG, 32110-005",
     "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-sarandi",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/PlaygroundParqueSarandi foto1.jpg",
-      "/src/public/assets/img/btm-photos/parques/PlaygroundParqueSarandi foto2.jpg"
+      "../../assets/img/ctg-photos/parques/PlaygroundParqueSarandi foto1.jpg",
+      "../../assets/img/btm-photos/parques/PlaygroundParqueSarandi foto2.jpg"
     ]
   },
   {
@@ -67,8 +67,8 @@
     "address": "319, R. Turfa, 301 - Pedra Azul, Contagem MG, 32183-510",
     "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-das-amendoeiras",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParquedasAmendoeiras foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParquedasAmendoeiras foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParquedasAmendoeiras foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParquedasAmendoeiras foto2.jpg"
     ]
   },
   {
@@ -77,8 +77,8 @@
     "address": "Av. Severino Ballesteros - Ressaca, Contagem MG, 32140-000",
     "link": "https://m.facebook.com/profile.php?id=215180605225305",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/PraçadoSol foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/PraçadoSol foto2.jpg"
+      "../../assets/img/ctg-photos/parques/PraçadoSol foto1.jpg",
+      "../../assets/img/ctg-photos/parques/PraçadoSol foto2.jpg"
     ]
   },
   {
@@ -87,8 +87,8 @@
     "address": "Rua Maria do Carmo Diniz, 141 - Nossa Senhora do Carmo CEP 32.015-780 - Contagem MG",
     "link": "https://www.minasgerais.com.br/pt/atracoes/contagem/parque-municipal-gentil-diniz",
     "imgs": [
-      "/src/public/assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto1.jpg",
-      "/src/public/assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto2.jpg"
+      "../../assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto1.jpg",
+      "../../assets/img/ctg-photos/parques/ParqueMunicipalGentilDiniz foto2.jpg"
     ]
   }
 ]

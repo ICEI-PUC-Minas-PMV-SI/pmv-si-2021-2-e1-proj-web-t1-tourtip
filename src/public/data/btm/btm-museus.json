@@ -5,8 +5,8 @@
 		"address": "Avenida Governador Valadares 115 | Centro, Betim, Minas Gerais 32600-035",
 		"link": "Não ha links para esse local",
 		"imgs": [
-			"/src/public/assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-1.jpg",
-			"/src/public/assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-2.jpg"
+			"../../assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-1.jpg",
+			"../../assets/img/btm-photos/museus/museu-paulo-araújo-moreira-gontijo-2.jpg"
 		]
 	},
 	{
@@ -15,8 +15,8 @@
 		"address": "Rua Emilo Ribas, 570 – Colônia Santa Isabel, Betim – MG, 32641-284",
 		"link": "Não ha links para esse local",
 		"imgs": [
-			"/src/public/assets/img/btm-photos/museus/museu-luís-verganim-1.jpg",
-			"/src/public/assets/img/btm-photos/museus/museu-luís-verganim-2.jpg"
+			"../../assets/img/btm-photos/museus/museu-luís-verganim-1.jpg",
+			"../../assets/img/btm-photos/museus/museu-luís-verganim-2.jpg"
 		]
 	},
 	{
@@ -25,8 +25,8 @@
 		"address": "Av. Padre Osório Braga, 149 - Centro, Betim - MG, 32656-506",
 		"link": "Não ha links para esse local",
 		"imgs": [
-			"/src/public/assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-1.jpg",
-			"/src/public/assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-2.jpg"
+			"../../assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-1.jpg",
+			"../../assets/img/btm-photos/museus/teatro-municipal-newton-amaral-franco-2.jpg"
 		]
 	}
 ]

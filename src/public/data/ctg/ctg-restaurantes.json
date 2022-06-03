@@ -6,8 +6,8 @@
         "contact": "(31) 98345-2005",
         "link": "http://casagusto.com.br/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/CasaGustoRistoranteItaliano foto2.jpg"
         ]
     },
     {
@@ -17,8 +17,8 @@
         "contact": "(31) 3396-1870",
         "link": "https://www.instagram.com/tradicao.da.roca.oficial/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/RestauranteTradiçãodaRoça foto2.jpg"
         ]
     },
     {
@@ -28,8 +28,8 @@
         "contact": "(31) 3357-7466",
         "link": "https://restaurantecumbuca.com.br/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/CumbucaRestaurante foto2.jpg"
         ]
     },
     {
@@ -39,8 +39,8 @@
         "contact": "(31) 3355-3287",
         "link": "http://restaurantecantinapaulista.com.br/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/RestaurantePaulista foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/RestaurantePaulista foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/RestaurantePaulista foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/RestaurantePaulista foto2.jpg"
         ]
     },
     {
@@ -50,8 +50,8 @@
         "contact": "(31) 3356-2911",
         "link": "https://www.tropeirodozeze.com.br/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/TropeirodoZezé foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/TropeirodoZezé foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/TropeirodoZezé foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/TropeirodoZezé foto2.jpg"
         ]
     },
     {
@@ -61,8 +61,8 @@
         "contact": "(31) 3398-2172",
         "link": "https://www.instagram.com/shizuokarestaurante/",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto1.jpg",
-            "/src/public/assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto2.jpg"
+            "../../assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto1.jpg",
+            "../../assets/img/ctg-photos/restaurantes/ShizuokaRestaurante foto2.jpg"
         ]
     }
 ]

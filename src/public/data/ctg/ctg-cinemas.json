@@ -6,8 +6,8 @@
         "contact": "(31) 3956-9621",
         "link": "https://www.cineart.com.br/cinema/cineart-contagem",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/cinemas/CineartShopping foto1.jpg",
-            "/src/public/assets/img/ctg-photos/cinemas/CineartShopping foto2.jpg"
+            "../../assets/img/ctg-photos/cinemas/CineartShopping foto1.jpg",
+            "../../assets/img/ctg-photos/cinemas/CineartShopping foto2.jpg"
         ]
     },
     {
@@ -17,8 +17,8 @@
         "contact": "(31) 3264-5959",
         "link": "https://www.cineart.com.br/cinema/cineart-itau-power",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/cinemas/CineartItaúPower foto1.jpg",
-            "/src/public/assets/img/ctg-photos/cinemas/CineartItaúPower foto2.jpg"
+            "../../assets/img/ctg-photos/cinemas/CineartItaúPower foto1.jpg",
+            "../../assets/img/ctg-photos/cinemas/CineartItaúPower foto2.jpg"
         ]
     },
     {
@@ -28,8 +28,8 @@
         "contact": "(31) 3396-1166",
         "link": "https://www.cinesercla.com.br/Unidade/Detalhe?IdUnidade=2",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/cinemas/CineserclaBIG foto1.jpg",
-            "/src/public/assets/img/ctg-photos/cinemas/CineserclaBIG foto2.jpg"
+            "../../assets/img/ctg-photos/cinemas/CineserclaBIG foto1.jpg",
+            "../../assets/img/ctg-photos/cinemas/CineserclaBIG foto2.jpg"
         ]
     },
     {
@@ -38,8 +38,8 @@
         "address": "Av. das Tulipas, s/n - Sapucaias, Contagem MG, 32071-122",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/cinemas/ParqueSapucaias foto1.jpg",
-            "/src/public/assets/img/ctg-photos/cinemas/ParqueSapucaias foto2.jpg"
+            "../../assets/img/ctg-photos/cinemas/ParqueSapucaias foto1.jpg",
+            "../../assets/img/ctg-photos/cinemas/ParqueSapucaias foto2.jpg"
         ]
     }
 ]

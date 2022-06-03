@@ -5,8 +5,8 @@
         "address": "R. Cândido Naves, 55 - Ouro Preto, Belo Horizonte - MG, 31310-460 Contato:  (31) 2512-5194",
         "link": "http://www.museudainquisicao.org.br",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-da-história-da-inquisição-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-da-história-da-inquisição-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-da-história-da-inquisição-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-da-história-da-inquisição-2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "Av. Prudente de Morais, 202 - Cidade Jardim, Belo Horizonte - MG, 30380-002",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/mhab",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-historico-abilio-barreto-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-historico-abilio-barreto-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-historico-abilio-barreto-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-historico-abilio-barreto-2.jpg"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "address": "Av. João Pinheiro, 342 - Lourdes, Belo Horizonte - MG, 30130-180",
         "link": "http://www.circuitoliberdade.mg.gov.br/pt-br/espacos-br/museu-mineiro",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-mineiro-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-mineiro-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-mineiro-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-mineiro-2.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "address": "R. da Bahia, 1149 - Centro, Belo Horizonte - MG, 30160-011",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/mumo",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-da-moda-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-da-moda-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-da-moda-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-da-moda-2.jpg"
         ]
     },
     {
@@ -45,8 +45,8 @@
         "address": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte - MG, 30160-000",
         "link": "http://mao.org.br",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-de-artes-e-oficios-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-de-artes-e-oficios-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-de-artes-e-oficios-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-de-artes-e-oficios-2.jpg"
         ]
     },
     {
@@ -55,8 +55,8 @@
         "address": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte - MG, 30140-010",
         "link": "https://mmgerdau.org.br",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-das-minas-e-do-metal-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-das-minas-e-do-metal-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-das-minas-e-do-metal-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-das-minas-e-do-metal-2.jpg"
         ]
     },
     {
@@ -65,8 +65,8 @@
         "address": "Av. Otacílio Negrão de Lima, 4188 - Bandeirantes (Pampulha), Belo Horizonte - MG, 03165-450",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casakubitschek",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-casa-kubitschek-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-casa-kubitschek-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-casa-kubitschek-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-casa-kubitschek-2.jpg"
         ]
     },
     {
@@ -75,8 +75,8 @@
         "address": "Av. Álvares Cabral, 560 - Lourdes, Belo Horizonte - MG, 30170-002",
         "link": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/imagemesom",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-da-imagem-e-do-som-de-bh-2.jpg"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "address": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte - MG, 30140-010",
         "link": "https://www.ufmg.br/espacodoconhecimento",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-2.jpg"
+            "../../assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-1.jpg",
+            "../../assets/img/bh-photos/museus/espaco-do-conhecimento-ufmg-2.jpg"
         ]
     },
     {
@@ -95,8 +95,8 @@
         "address": "R. Dom José Gaspar, 290 - Coração Eucarístico, Belo Horizonte - MG, 30535-901",
         "link": "https://www.pucminas.br/destaques/Paginas/museu.aspx",
         "imgs": [
-            "/src/public/assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-1.jpg",
-            "/src/public/assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-2.jpg"
+            "../../assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-1.jpg",
+            "../../assets/img/bh-photos/museus/museu-de-ciencias-naturais-pucminas-2.jpg"
         ]
     }
 ]

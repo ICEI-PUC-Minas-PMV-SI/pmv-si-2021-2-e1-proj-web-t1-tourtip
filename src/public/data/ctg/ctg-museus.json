@@ -5,8 +5,8 @@
         "address": "R. Bernardo Monteiro, 446 - Santa Edwiges, Contagem MG, 32040-250",
         "link": "https://www.benditoguia.com.br/empresa/museu-meireles-santa-edwiges-contagem-mg",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/museus/MuseuMeirelles foto1.jpg",
-            "/src/public/assets/img/ctg-photos/museus/MuseuMeirelles foto2.jpg"
+            "../../assets/img/ctg-photos/museus/MuseuMeirelles foto1.jpg",
+            "../../assets/img/ctg-photos/museus/MuseuMeirelles foto2.jpg"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "address": "Tv. C 2 - Eldorado, Contagem MG, 32310-370",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/museus/BecodoCinema foto1.jpg",
-            "/src/public/assets/img/ctg-photos/museus/BecodoCinema foto2.jpg"
+            "../../assets/img/ctg-photos/museus/BecodoCinema foto1.jpg",
+            "../../assets/img/ctg-photos/museus/BecodoCinema foto2.jpg"
         ]
     },
     {
@@ -26,8 +26,8 @@
         "contact": "(31) 3398-7350",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/ctg-photos/museus/MuseuHistóricoDeContagem foto1.jpg",
-            "/src/public/assets/img/ctg-photos/museus/MuseuHistóricoDeContagem foto2.jpg"
+            "../../assets/img/ctg-photos/museus/MuseuHistóricoDeContagem foto1.jpg",
+            "../../assets/img/ctg-photos/museus/MuseuHistóricoDeContagem foto2.jpg"
         ]
     }
 ]

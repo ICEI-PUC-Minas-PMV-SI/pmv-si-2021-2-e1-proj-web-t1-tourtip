@@ -6,8 +6,8 @@
         "contact": "Telefone: (31) 3512-3171",
         "link": "Não ha links para esse local",
         "imgs": [
-            "/src/public/assets/img/btm-photos/parquespublicos/parque-ecológico-municipal-cléo-barbosa-1.jpg",
-            "/src/public/assets/img/btm-photos/parquespublicos/parque-ecológico-municipal-cléo-barbosa-2.jpg"
+            "../../assets/img/btm-photos/parquespublicos/parque-ecológico-municipal-cléo-barbosa-1.jpg",
+            "../../assets/img/btm-photos/parquespublicos/parque-ecológico-municipal-cléo-barbosa-2.jpg"
         ]
     }
 ]
