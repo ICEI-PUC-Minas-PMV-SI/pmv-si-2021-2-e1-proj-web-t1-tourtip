@@ -1,4 +1,4 @@
-citiesURL = 'http://localhost:3000/cities';
+citiesURL = 'https://tourtip-data.herokuapp.com/cities';
 
 const citiesList = document.querySelector('#cities-list');
 

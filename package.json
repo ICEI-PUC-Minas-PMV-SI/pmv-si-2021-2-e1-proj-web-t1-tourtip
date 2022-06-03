@@ -7,8 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node src/public/assets/js/server.js & node src/public/assets/js/json-server.js",
-    "json-server-start": "node src/public/assets/js/json-server.js"
+    "start": "node src/public/assets/js/server.js"
   },
   "repository": {
     "type": "git",

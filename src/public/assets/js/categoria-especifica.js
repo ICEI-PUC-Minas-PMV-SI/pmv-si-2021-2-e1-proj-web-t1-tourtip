@@ -2,9 +2,9 @@ const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const cg = urlParams.get('cg');
 
-const bhSpecificCategoryURL = `http://localhost:3000/bh_${cg}`;
-const ctgSpecificCategoryURL = `http://localhost:3000/ctg_${cg}`;
-const btmSpecificCategoryURL = `http://localhost:3000/btm_${cg}`;
+const bhSpecificCategoryURL = `https://tourtip-data.herokuapp.com/bh_${cg}`;
+const ctgSpecificCategoryURL = `https://tourtip-data.herokuapp.com/ctg_${cg}`;
+const btmSpecificCategoryURL = `https://tourtip-data.herokuapp.com/btm_${cg}`;
 const bgSpecificCategory = document.querySelector('#bh-specific-category');
 const ctgSpecificCategory = document.querySelector('#ctg-specific-category');
 const btmSpecificCategory = document.querySelector('#btm-specific-category');

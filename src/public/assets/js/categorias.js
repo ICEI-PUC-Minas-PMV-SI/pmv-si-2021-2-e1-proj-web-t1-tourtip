@@ -1,4 +1,4 @@
-URL = 'http://localhost:3000/categories';
+URL = 'https://tourtip-data.herokuapp.com/categories';
 
 const categoriesList = document.querySelector('#categories-list');
 

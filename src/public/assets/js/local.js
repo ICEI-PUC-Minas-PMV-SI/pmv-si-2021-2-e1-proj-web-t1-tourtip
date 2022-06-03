@@ -3,7 +3,7 @@ const urlParams = new URLSearchParams(urlQuery);
 const ct = urlParams.get('ct');
 const id = urlParams.get('id');
 
-const specificCityURL = `http://localhost:3000/${ct}/${id}`;
+const specificCityURL = `https://tourtip-data.herokuapp.com/${ct}/${id}`;
 const placeInfo = document.querySelector('#place');
 const placeImgs = document.querySelector('#place_imgs');
 

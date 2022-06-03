@@ -2,7 +2,7 @@ const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const id = urlParams.get('id');
 
-const specificCityURL = 'http://localhost:3000/cidade_especifica';
+const specificCityURL = 'https://tourtip-data.herokuapp.com/cidade_especifica';
 const citiesList = document.querySelector('#specific-city');
 const citiesPlacesList = document.querySelector('#specific-city-places');
 const citiesPlacesCategories = document.querySelector('#specific-city-categories');
