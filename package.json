@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node src/public/assets/js/server.js",
-    "json-server-start": "json-server --watch src/public/assets/js/index.js"
+    "json-server-start": "node src/public/assets/js/json-server.js"
   },
   "repository": {
     "type": "git",
