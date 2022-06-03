@@ -9,7 +9,7 @@
         "id": "0",
         "name": "Lagoa da Pampulha",
         "imgs": [
-          "../public/assets/img/bh-photos/turismo/lagoa-da-pampulha-1.jpg"
+          "../assets/img/bh-photos/turismo/lagoa-da-pampulha-1.jpg"
         ]
       },
       {
@@ -17,7 +17,7 @@
         "id": "2",
         "name": "Praça da Liberdade",
         "imgs": [
-          "../public/assets/img/bh-photos/turismo/praça-da-liberdade-1.jpg"
+          "../assets/img/bh-photos/turismo/praça-da-liberdade-1.jpg"
         ]
       },
       {
@@ -25,7 +25,7 @@
         "id": "16",
         "name": "Mineirão",
         "imgs": [
-          "../public/assets/img/bh-photos/turismo/mineirao-1.jpg"
+          "../assets/img/bh-photos/turismo/mineirao-1.jpg"
         ]
       }
     ],
@@ -34,21 +34,21 @@
         "name": "Pontos Turísticos",
         "category": "turisticos",
         "imgs": [
-          "../public/assets/img/categories/pontos_turisticos.jpg"
+          "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Parques Públicos",
         "category": "parquespublicos",
         "imgs": [
-          "../public/assets/img/categories/parques_publicos.jpg"
+          "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Bares",
         "category": "bares",
         "imgs": [
-          "../public/assets/img/categories/bares.jpg"
+          "../assets/img/categories/bares.jpg"
         ]
       }
     ]
@@ -63,7 +63,7 @@
         "id": "0",
         "name": "Parque Ecológico Eldorado",
         "imgs": [
-          "../public/assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto1.jpg"
+          "../assets/img/ctg-photos/parques/ParqueEcologicoEldorado foto1.jpg"
         ]
       },
       {
@@ -71,7 +71,7 @@
         "id": "0",
         "name": "Igreja Matriz de São Gonçalo",
         "imgs": [
-          "../public/assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto1.jpg"
+          "../assets/img/ctg-photos/turismo/IgrejaMatrizdeSãoGonçalo foto1.jpg"
         ]
       },
       {
@@ -79,7 +79,7 @@
         "id": "2",
         "name": "Centro Cultural Prefeito Francisco Firmo de Mattos",
         "imgs": [
-          "../public/assets/img/ctg-photos/turismo/CentroCultural foto1.jpg"
+          "../assets/img/ctg-photos/turismo/CentroCultural foto1.jpg"
         ]
       }
     ],
@@ -88,21 +88,21 @@
         "name": "Parques Públicos",
         "category": "parquespublicos",
         "imgs": [
-          "../public/assets/img/categories/parques_publicos.jpg"
+          "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Pontos Turísticos",
         "category": "turisticos",
         "imgs": [
-          "../public/assets/img/categories/pontos_turisticos.jpg"
+          "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Restaurantes",
         "category": "restaurantes",
         "imgs": [
-          "../public/assets/img/categories/restaurantes.jpg"
+          "../assets/img/categories/restaurantes.jpg"
         ]
       }
     ]
@@ -117,7 +117,7 @@
         "id": "1",
         "name": "Praça do Encontro",
         "imgs": [
-          "../public/assets/img/btm-photos/turisticos/praça-do-encontro-1.jpg"
+          "../assets/img/btm-photos/turisticos/praça-do-encontro-1.jpg"
         ]
       },
       {
@@ -125,7 +125,7 @@
         "id": "0",
         "name": "Praça Milton Campos",
         "imgs": [
-          "../public/assets/img/btm-photos/turisticos/praca-milton-campos-1.jpg"
+          "../assets/img/btm-photos/turisticos/praca-milton-campos-1.jpg"
         ]
       },
       {
@@ -133,7 +133,7 @@
         "id": "2",
         "name": "Casa da Cultura Josephina Bento",
         "imgs": [
-          "../public/assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-1.jpg"
+          "../assets/img/btm-photos/turisticos/casa-da-cultura-josephina-bento-1.jpg"
         ]
       }
     ],
@@ -142,21 +142,21 @@
         "name": "Parques Públicos",
         "category": "parquespublicos",
         "imgs": [
-          "../public/assets/img/categories/parques_publicos.jpg"
+          "../assets/img/categories/parques_publicos.jpg"
         ]
       },
       {
         "name": "Pontos Turísticos",
         "category": "turisticos",
         "imgs": [
-          "../public/assets/img/categories/pontos_turisticos.jpg"
+          "../assets/img/categories/pontos_turisticos.jpg"
         ]
       },
       {
         "name": "Bares",
         "category": "bares",
         "imgs": [
-          "../public/assets/img/categories/bares.jpg"
+          "../assets/img/categories/bares.jpg"
         ]
       }
     ]
