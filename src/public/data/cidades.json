@@ -2,16 +2,16 @@
     {
         "id": 0,
         "name": "Belo Horizonte",
-        "img": "/src/public/assets/img/cities/belo-horizonte.jpg"
+        "img": "../assets/img/cities/belo-horizonte.jpg"
     },
     {
         "id": 1,
         "name": "Contagem",
-        "img": "/src/public/assets/img/cities/contagem.jpg"
+        "img": "../assets/img/cities/contagem.jpg"
     },
     {
         "id": 2,
         "name": "Betim",
-        "img": "/src/public/assets/img/cities/betim.jpg"
+        "img": "../assets/img/cities/betim.jpg"
     }
 ]
