@@ -1,1 +1,1 @@
-web: npm start & npm json-server-start wait -n
+web: npm start
