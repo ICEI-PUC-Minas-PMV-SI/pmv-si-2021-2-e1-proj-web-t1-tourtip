@@ -12,7 +12,7 @@ fetch(specificCityURL)
   .then(place => {
     let place_list = '';
     let place_img_list = '';
-    
+
     place_list += `
     <div class="card my-5 py-3" style="border-radius: 20px">
       <div class="card-body">
@@ -27,7 +27,16 @@ fetch(specificCityURL)
     </div>
     <div class="card my-5 py-3" style="border-radius: 20px">
       <div class="card-body">
-        <h2>Mapa</h2>
+        <iframe
+          width="100%"
+          height="450"
+          style="border:0"
+          loading="lazy"
+          allowfullscreen
+          referrerpolicy="no-referrer-when-downgrade"
+          src="https://www.google.com/maps/embed/v1/place?key=
+            &q=Lagoa+da+Pampulha">
+        </iframe>
       </div>
     </div>
     <div class="card my-5 py-3" style="border-radius: 20px">
