@@ -1,4 +1,4 @@
-.main-title, .main-content, .card-body .card-title, h2, p, .home-item_card-button {
+.main-title, .main-content, .card-body .card-title, h1, h2, p, .home-item_card-button {
   font-family: 'Inter', sans-serif;
   text-decoration: none;
 }
