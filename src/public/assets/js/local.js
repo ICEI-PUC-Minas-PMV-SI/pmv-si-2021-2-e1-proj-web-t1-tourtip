@@ -1,5 +1,3 @@
-import config from "./config";
-
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const ct = urlParams.get('ct');
