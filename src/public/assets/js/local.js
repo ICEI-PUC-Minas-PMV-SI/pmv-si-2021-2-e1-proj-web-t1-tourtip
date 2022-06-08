@@ -1,4 +1,6 @@
-import { api_key } from "/src/public/assets/js/server.js";
+import { default as showEnv } from "./load-map";
+
+showEnv();
 
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
@@ -36,8 +38,7 @@ fetch(specificCityURL)
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps/embed/v1/place?key=${api_key}
-            &q=Lagoa+da+Pampulha">
+          src="">
         </iframe>
       </div>
     </div>
