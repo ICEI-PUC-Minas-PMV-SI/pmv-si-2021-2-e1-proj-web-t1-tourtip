@@ -62,7 +62,7 @@ fetch(specificCityURL)
               <h2 class="text-center">${specific_city[id].categories[i].name}<h2>
             </div>
             <div>
-              <a href="categoria-especifica.html?cg=${specific_city[id].categories[i].category}">
+              <a href="categoria-cidade-especifica.html?cg=${specific_city[id].categories[i].category}">
                 <button type="button" class="btn btn-success home-item_card-button my-3 px-5 py-2">Explorar</button>
               </a>
             </div>
