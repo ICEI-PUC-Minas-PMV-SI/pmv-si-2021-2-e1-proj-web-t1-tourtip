@@ -1,4 +1,4 @@
-import { api_key } from "./server";
+import { api_key } from "server.js";
 
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
