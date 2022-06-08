@@ -1,6 +1,10 @@
 const express = require("express")
 const path = require('path')
 const app = express()
+module.exports = {
+  api_key: process.env.API_KEY
+} 
+  
 
 app.use(express.static("src/public"))
 
