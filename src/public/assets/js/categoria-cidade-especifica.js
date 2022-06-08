@@ -4,15 +4,20 @@ const cg = urlParams.get('cg');
 
 const specificCategoryURL = `https://tourtip-data.herokuapp.com/${cg}`;
 const specificCategory = document.querySelector('#specific-category');
+const specificCategoryTitle = document.querySelector('#specific-category-title');
 
 fetch(specificCategoryURL)
   .then(res => res.json())
   .then(specific_category => {
     let specific_categories_list = '';
+    let specific_categories_title = '';
+
+    specific_categories_list += `
+      <h2 class="d-flex justify-content-center text-white mt-5" style="font-size: 1.5rem;">${specific_category[i].category} em ${specific_category[i].city}</h2>
+      `;
 
     for (let i = 0; i < specific_category.length; i++) {
       specific_categories_list += `
-      <h2 class="d-flex justify-content-center text-white mt-5" style="font-size: 1.5rem;">${specific_category[i].category} em ${specific_category[i].city}</h2>
       <div class="container">
         <div class="bg-white my-5" style="border-radius: 20px">      
           <div class="row align-items-center m-0 py-3">        
@@ -39,7 +44,6 @@ fetch(specificCategoryURL)
             </div>
           </div>
         </div>
-
       </div>
       `;
       specificCategory.innerHTML = specific_categories_list;
