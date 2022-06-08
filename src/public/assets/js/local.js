@@ -1,3 +1,5 @@
+import config from "./config";
+
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const ct = urlParams.get('ct');
@@ -34,8 +36,8 @@ fetch(specificCityURL)
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps/embed/v1/place?key=
-            &q=Lagoa+da+Pampulha">
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDTymA31cAFCHeaFlRHevh1Ylwb6VdoMMY
+            &q=${place.query}">
         </iframe>
       </div>
     </div>
