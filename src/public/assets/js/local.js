@@ -1,7 +1,3 @@
-import { default as showEnv } from "./load-map";
-
-showEnv();
-
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
 const ct = urlParams.get('ct');
@@ -38,7 +34,8 @@ fetch(specificCityURL)
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
-          src="">
+          src="https://www.google.com/maps/embed/v1/place?key=
+            &q=Lagoa+da+Pampulha">
         </iframe>
       </div>
     </div>
