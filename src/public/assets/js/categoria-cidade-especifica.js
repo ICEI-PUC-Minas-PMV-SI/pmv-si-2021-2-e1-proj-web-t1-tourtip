@@ -12,9 +12,11 @@ fetch(specificCategoryURL)
     let specific_categories_list = '';
     let specific_categories_title = '';
 
-    specific_categories_list += `
-    <h1 class="d-flex justify-content-center text-white mt-5" style="font-size: 1.5rem;">${specific_category.category} em ${specific_category.city}</h1>
-    `;
+    for (let i = 0; i = 0; i++) {
+      specific_categories_list += `
+      <h1 class="d-flex justify-content-center text-white mt-5" style="font-size: 1.5rem;">${specific_category[i].category} em ${specific_category[i].city}</h1>
+      `;
+    }
     specificCategoryTitle.innerHTML = specific_categories_title;
 
     for (let i = 0; i < specific_category.length; i++) {
