@@ -1,4 +1,4 @@
-const { api_key } = require("./server");
+import { api_key } from "./server";
 
 const urlQuery = window.location.search;
 const urlParams = new URLSearchParams(urlQuery);
