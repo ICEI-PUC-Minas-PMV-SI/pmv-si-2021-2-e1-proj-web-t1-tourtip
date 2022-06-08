@@ -34,7 +34,7 @@ fetch(specificCityURL)
           loading="lazy"
           allowfullscreen
           referrerpolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps/embed/v1/place?key=
+          src="https://www.google.com/maps/embed/v1/place?key=${process.env.API_KEY}
             &q=Lagoa+da+Pampulha">
         </iframe>
       </div>
