@@ -39,7 +39,7 @@ fetch(specificCategoryURL)
                   <p>${specific_category[i].address}</p>
                 </div>
                 <div class="col-sm-12 col-lg-4 py-3 d-flex justify-content-center">
-                  <a href="local.html?ct=bh_${cg}&id=${specific_category[i].id}">
+                  <a href="local.html?ct=${cg}&id=${specific_category[i].id}">
                     <button type="button" class="btn btn-success home-item_card-button px-5 py-2">Explorar</button>
                   </a>
                 </div>
