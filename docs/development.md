@@ -9,8 +9,8 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
 
   * RF-002 - Possuir fácil acesso a links com localizações dos locais.
   * RF-003 - Possuir um carregamento de mapas dinâmicos para cada local.
-    ![menu da lagoa da pampulha] <img src="docs/img/menulagoadapampulha.png" />
+    ![menu da lagoa da pampulha](img/menulagoadapampulha.png) 
 
     Todos os locais, cidades e demais aspectos do turismo possuem uma API que mostra a localização trazida diretamente do Google Maps, como demonstra a imagem a cima. 
   
-  * RF-004 - Possuir opção de expandir as informações para maiores detalhes.
+  * RF-004 - Possuir opção de expandir as informações para maiores detalhes. 
