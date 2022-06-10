@@ -1,13 +1,13 @@
+<div align="justify"> 
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Neste documento estão descritos os artefatos e estrutura de dados criados para atingir os requisitos funcionais e não funcionais que foi previsto nas <a href="./especification.md">Especificações do Projeto</a>, também deve possuir as instruções para acesso e verificação da implementação. As tecnologias usadas foram basicamente, HTML, CSS, Arquivos JSON, NodeJs, JavaScript e Heroku.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+#Requisitos 
+  * RF-001 - Possuir dados estáticos que não necessitem de interações constantes com bancos de dados para serem acessados.
+  
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+  * RF-002 - Possuir fácil acesso a links com localizações dos locais.
+    ![menu da lagoa da pampulha] <img src="assets/img/menulagoadapampulha.png" />
+
+    Todos os locais, cidades e demais aspectos do turismo possuem uma API que mostra a localização trazida diretamente do Google Maps, como demonstra a imagem a cima.
