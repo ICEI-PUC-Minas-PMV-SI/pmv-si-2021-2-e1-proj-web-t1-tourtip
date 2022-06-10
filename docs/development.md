@@ -12,7 +12,7 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
  
   Para atender os requisitos RF-002 e RF-003 foi desenvolvido uma API que mostra a localização trazida diretamente do Google Maps, como demonstra a imagem a cima. 
 
-    ![menu da lagoa da pampulha](img/menulagoadapampulha.png) 
+    ![menu da lagoa da pampulha](img/menulagoadapampulha.png)
 
   Este modelo final de página sobre qualquer local (bares, cinemas, parques, museus, restaurantes), de modo que por qualquer caminho percorrido, será exibida as seguintes informações:
    * Nome do Local
