@@ -22,6 +22,8 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
    * Fotos
 
 <br/>
+
+<div align="justify"> 
     
   * RF-004 - Possuir opção de expandir as informações para maiores detalhes. 
 
@@ -30,5 +32,5 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
   ![menu Tela Inicial](img/menutelainicial.png)
 
   Nesta página, foi desenvolvido dois acessos, direcionando a novas paginas, mais especificas sobre o assunto.
-  
+
   <br/>
