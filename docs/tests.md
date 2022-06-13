@@ -57,3 +57,71 @@
 |TF-052| Categorias | Ao clicar em "início" na topbar ele retornará para a página “TourTip”. |
 |TF-053| Home | Ao clicar em "sobre nós" na topbar o usuário será direcionado para a página “sobre nós” com as informações de quem somos. |
 |TF-054| Sobre nós | Ao clicar em "início" na topbar ele retornará para a página “TourTip”. |
+
+
+## Resultados Obtidos
+
+| Nº Teste | Página | Resultado do Teste | Bugs? |
+|----|-----------------------------------------|----|----|
+|RTF-001| Home | Todos os "cards" previstos foram carregados na index/homepage sem atrasos ou bugs. | NÃO |
+|RTF-002| Home | Ao clicar no botão Explorar em Cidades direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-003| Cidades | Ao clicar no botão explorar Belo Horizonte direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-004| Cidades | O usuário irá visualizar duas opções de escolha nesta página (Locais de Interesse e Principais Categorias. | NÃO |
+|RTF-005| Cidades | Ao carregar a página Locais de Interesse o usuário terá três opções: Lagoa da Pampulha, Praça da Liberdade e Mineirão. | NÃO |
+|RTF-006| Cidades | Ao clicar no botão Explorar Lagoa da Pampulha direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-007| Cidades | Ao clicar no botão Explorar Praça da Liberdade direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-008| Cidades | Ao clicar no botão Explorar Mineirão direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-009| Cidades | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-010| Cidades | Ao carregar a página Locais de Interesse o usuário terá três opções: “Pontos Turísticos ou Parque Públicos ou Bares”. | NÃO |
+|RTF-011| Cidades | Ao clicar no botão Explorar Pontos Turísticos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-012| Categorias | Ao carregar a página Pontos Turísticos o usuário terá dezessete opções. | NÃO |
+|RTF-013| Categorias | Ao clicar no botão Explorar de uma das opções Pontos Turísticos direcionada corretamente o usuário para a página esperada. | NÃO |
+|RTF-014| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-015| Categorias | Ao clicar na seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-016| Cidades | Ao clicar no botão Explorar Parques Públicos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-017| Categorias | Ao carregar a página Parques Públicos o usuário terá onze opções. | NÃO |
+|RTF-018| Categorias | Ao clicar no botão Explorar de uma das opções Parques Públicos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-019| Categorias |  Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-020| Categorias |  Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-021| Cidades | Ao clicar no botão Explorar Bares direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-022| Categorias | Ao carregar a página Bares o usuário terá nove opções. | NÃO |
+|RTF-023| Categorias | Ao clicar no botão Explorar de uma das opções Bares direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-024| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-025| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-026| Cidades | Ao carregar a página Categoria da topbar o usuário terá seis opções: “Cinemas/Bares/Restaurantes/Museus/Parques Públicos/Pontos Turísticos”. | NÃO |
+|RTF-027| Categorias | Ao clicar no botão Explorar Cinemas direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-028| Categorias | Ao carregar a página Cinemas o usuário terá quinze opções. | NÃO |
+|RTF-029| Categorias | Ao clicar no botão Explorar de uma das opções Cinemas direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-030| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-031| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+
+|RTF-032| Categorias | Ao carregar a página Bares o usuário terá vinte e uma opções | NÃO |
+|RTF-033| Categorias | Ao clicar no botão Explorar de uma das opções Bares direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-034| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-035| Categorias | Ao clicar no botão Explorar Restaurantes direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-036| Categorias | Ao carregar a página Restaurantes o usuário terá dezenove opções. | NÃO |
+|RTF-037| Categorias | Ao clicar no botão Explorar de uma das opções Restaurantes direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-038| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-039| Categorias | Ao clicar no botão Explorar Museus direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-040| Categorias | Ao carregar a página Museus o usuário terá dezesseis opções. | NÃO |
+|RTF-041| Categorias | Ao clicar no botão Explorar de uma das opções Museus direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-042| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-043| Categorias| Ao clicar no botão Explorar Parques públicos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-044| Categorias | Ao carregar a página Parques Públicos o usuário terá vinte e uma opções. | NÃO |
+|RTF-045| Categorias | Ao clicar no botão uma das opções Parques Públicos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-46| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-047| Categorias | Ao clicar no botão Explorar Pontos Turísticos direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-048| Categorias | Ao carregar a página Pontos Turísticos o usuário terá vinte e uma opções. | NÃO |
+|RTF-049| Categorias | Ao clicar no botão uma das opções Pontos Turísticos é direcionada corretamente o usuário para a página esperada. | NÃO |
+|RTF-50| Categorias | Ao clicar no botão seta é direcionada corretamente o usuário para a página esperada. | NÃO |
+|RTF-051| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-052| Categorias | Ao clicar no botão Início direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-053| Home | Ao clicar no botão Sobre nós direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-54| Home | Ao clicar no botão Início direciona corretamente o usuário para a página esperada. | NÃO |
+
+
+## Avaliação
+
+Foram realizados testes funcionais do sistema, de acordo com o Plano de testes funcionais, no ambiente de produção no dia 12 de junho de 2021 às 22h00.
+
+Não foram registrados nenhum tipo bugs.
