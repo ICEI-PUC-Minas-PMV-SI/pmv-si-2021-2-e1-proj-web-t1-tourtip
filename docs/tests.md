@@ -29,7 +29,7 @@
 |TF-023| Categorias | Ao clicar no botão "Explorar", em um dos cards dos “Bares” acima, o usuário vai ser direcionado para a página com as informações do Bar Escolhido. |
 |TF-024| Categorias | Ao clicar no botão "seta" ele retornará na página “Bares em BH”. |
 |TF-025| Categorias | Ao clicar no botão "seta" ele retornará para a página “Belo Horizonte”. |
-|TF-026| Cidades | Ao clicar em "Categorias" na topbar, é esperado que o usuário seja direcionado para a página das categorias: “Cinemas”/ “Bares”/ “Restaurantes”/ “Museus”/ “Parques Públicos”/ “Pontos Turísticos”. |
+|TF-026| Cidades | Ao clicar em "Categorias" na topbar, é esperado que o usuário seja direcionado para a página das categorias: “Cinemas”, “Bares”, “Restaurantes”, “Museus”, “Parques Públicos”, “Pontos Turísticos”. |
 |TF-027| Categorias | Ao clicar no botão “Explorar” na categoria "Cinemas", é esperado que o usuário seja direcionado para a página "Cinemas” |
 |TF-028| Categorias | Ao carregar a página de “Cinemas”, o usuário terá várias opções de explorar os cards dos cinemas: “BH Shopping, Ponteio Lar Shopping, Boulevard Shopping BH, Shopping Estação BH, Shopping Cidade BH, Minas Shopping, Diamond Mall, Pátio Savassi e Shopping Del Rey, bem como as opções dos cinemas dos município de Betim e Contagem.|
 |TF-029| Categorias | Ao clicar no botão "Explorar", em um dos cards dos “cinemas”, o usuário vai ser direcionado para a página com as informações do local do “Cinema” escolhido. |
