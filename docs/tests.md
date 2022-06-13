@@ -94,7 +94,6 @@
 |RTF-029| Categorias | Ao clicar no botão Explorar de uma das opções Cinemas direciona corretamente o usuário para a página esperada. | NÃO |
 |RTF-030| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
 |RTF-031| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
-
 |RTF-032| Categorias | Ao carregar a página Bares o usuário terá vinte e uma opções | NÃO |
 |RTF-033| Categorias | Ao clicar no botão Explorar de uma das opções Bares direciona corretamente o usuário para a página esperada. | NÃO |
 |RTF-034| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
