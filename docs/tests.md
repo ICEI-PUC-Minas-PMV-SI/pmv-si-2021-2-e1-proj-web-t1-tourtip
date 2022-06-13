@@ -123,4 +123,4 @@
 
 Foram realizados testes funcionais do sistema, de acordo com o Plano de testes funcionais, no ambiente de produção no dia 12 de junho de 2021 às 22h00.
 
-Não foram registrados nenhum tipo bugs.
+Não foram registrados nenhum tipo bugs nos testes funcionais do sistema.
