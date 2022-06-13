@@ -116,7 +116,7 @@
 |RTF-051| Categorias | Ao clicar no botão seta direciona corretamente o usuário para a página esperada. | NÃO |
 |RTF-052| Categorias | Ao clicar no botão Início direciona corretamente o usuário para a página esperada. | NÃO |
 |RTF-053| Home | Ao clicar no botão Sobre nós direciona corretamente o usuário para a página esperada. | NÃO |
-|RTF-54| Home | Ao clicar no botão Início direciona corretamente o usuário para a página esperada. | NÃO |
+|RTF-54| Sobre nós | Ao clicar no botão Início direciona corretamente o usuário para a página esperada. | NÃO |
 
 
 ## Avaliação
