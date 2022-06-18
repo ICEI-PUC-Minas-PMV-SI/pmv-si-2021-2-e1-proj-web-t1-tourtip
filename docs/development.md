@@ -10,7 +10,6 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
  * RF-003 - Possuir um carregamento de mapas dinâmicos para cada local.
  * RF-004 - Possuir opção de expandir as informações para maiores detalhes. 
 
-<br/>
 
  ## Tela Inicial   
   A página trás uma descrição geral do site, explicando um pouco do que o navegador irá encontrar. Esta pagina atinge o requisito      * RF-004
@@ -21,7 +20,6 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
 
   Nesta página, foi desenvolvido dois acessos, direcionando a novas paginas, mais especificas sobre o assunto.
 
-<br/>
 
 ## Cidades
   Ao  clicar para explorar "Cidades", aparecerá o seguinte menu:
@@ -33,7 +31,6 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
    * Belo Horizonte
    * Betim
    
-<br/>
 
 #### Belo Horizonte
   Ao ser direcionado para a página de BH, aparecerá uma rápida descrição da cidade em um box. Um pouco mais em baixo, aparecerá uma lista de Locais de Interesse e outra de Principais Categorias.
@@ -41,7 +38,7 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
   ![menu Belo Horizonte](img/menubh.png)
 
   Aparecerão diversos destinos nestas listas para se aprofundar, vamos pegar como exemplo a Lagoa da Pampulha.
-<br/>
+
 
 ##### Lagoa da Pampulha
   Ao ser aberta a pagina, aparecerá diversas informações sobre o local. Com essa página, atinginmos os requisitos: 
@@ -56,7 +53,7 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
    * Link
    * Endereço  
    * Fotos
-<br/>
+
 
 ## Categorias
   Ao ser direcionado a página de categorias, a partir do menu inicial, o internauta encontrará todas as categorias de locais das cidades a qual o site propõe disponibilizar.
@@ -72,7 +69,7 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
    * Pontos Turisticos
 
   Ou você pode usar a barra de ferramentas no canto superior direito da página para escolher outro direcionamento.
-<br/>
+
 
 ### Pontos Turisticos 
   Ao escolher a opção de pontos turisticos na página de categorias, você será direcionado para esta página, onde encontrará todos os pontos turisticos das três cidades.
@@ -84,13 +81,13 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
  ![menu pontos turisticos](img/menucategoriascidades3.png)
 
   A partir disto, você faz o filtro de qual cidade irá análisar, de forma que o próprio internauta faça esse filtra, visto que, aparecem as três cidades na página. A partir disso é apenas escolher o local a qual se deseja verificar maiores informações.
-<br/>
+
 
 #### Mirante do Mangabeiras
   Esta é a pagina final desta sequência de filtros realizados pelo internauta. Você encontrará informações mais detalhadas sobre o local escolhido.
 
  ![menu mirante do mangabeiras](img/menumangabeiras.png)
-<br/>
+
 
 ## Sobre Nós
   Na barra de ferramentas no canto superior direto, você pode a partir de qualquer página ser direcionado para a página "Sobre Nós", onde fazemos uma rápida descrição do motivo da criação do site e os objetivos do mesmo.
@@ -98,4 +95,4 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
  ![menu sobe nós](img/menusobrenos.png)
 
   Desta forma, fizemos os caminhos possíveis a se fazer dentro do site e encerramos o documento de funcionalidades da página.
-  <br/>
+<br/>
