@@ -56,3 +56,40 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
    * Endereço  
    * Fotos
 
+## Categorias
+  Ao ser direcionado a página de categorias, a partir do menu inicial, o internauta encontrará todas as categorias de locais das cidades a qual o site propõe disponibilizar.
+
+ ![menu categorias](img/menucategorias.png)
+
+  Nesta página, você pode ser direcionado para qualquer uma das categorias seguintes:
+   * Cinemas
+   * Bares
+   * Restaurantes
+   * Museus
+   * Parques Públicos
+   * Pontos Turisticos
+
+  Ou você pode usar a barra de ferramentas no canto superior direito da página para escolher outro direcionamento.
+
+### Pontos Turisticos 
+  Ao escolher a opção de pontos turisticos na página de categorias, você será direcionado para esta página, onde encontrará todos os pontos turisticos das três cidades.
+
+ ![menu pontos turisticos](img/menucategoriascidades1.png)
+
+ ![menu pontos turisticos](img/menucategoriascidades2.png)
+
+ ![menu pontos turisticos](img/menucategoriascidades3.png)
+
+  A partir disto, você faz o filtro de qual cidade irá análisar, de forma que o próprio internauta faça esse filtra, visto que, aparecem as três cidades na página. A partir disso é apenas escolher o local a qual se deseja verificar maiores informações.
+
+#### Mirante do Mangabeiras
+  Esta é a pagina final desta sequência de filtros realizados pelo internauta. Você encontrará informações mais detalhadas sobre o local escolhido.
+
+ ![menu mirante do mangabeiras](img/menumangabeiras.png)
+
+## Sobre Nós
+  Na barra de ferramentas no canto superior direto, você pode a partir de qualquer página ser direcionado para a página "Sobre Nós", onde fazemos uma rápida descrição do motivo da criação do site e os objetivos do mesmo.
+
+ ![menu sobe nós](img/menusobrenos.png)
+
+  Desta forma, fizemos os caminhos possíveis a se fazer dentro do site e encerramos o documento de funcionalidades da página.
