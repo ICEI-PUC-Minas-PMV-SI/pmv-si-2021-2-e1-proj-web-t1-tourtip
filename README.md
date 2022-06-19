@@ -10,6 +10,8 @@ O Projeto TourTip é uma plataforma informativa, tendo como conteúdo principal 
 
 O TourTip visa entregar aos usuários uma experiência agradável e simplificada ao buscar informações, atuando tanto como uma ajuda de primeira instância ao procurar lugares para visitar, quanto como um bom centro de opções para planejamento de viagens.
 
+Acesse o TourTip no seguinte link: https://tourtip.herokuapp.com/
+
 ## Integrantes
 
 * Alexandre Guzmán Siácara
