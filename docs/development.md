@@ -49,9 +49,9 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
 
   Este modelo final de página sobre qualquer local (bares, cinemas, parques, museus, restaurantes), de modo que por qualquer caminho percorrido, será exibida as seguintes informações:
    * Nome do Local
-   * API do Local
-   * Link
    * Endereço  
+   * Mapa do Local
+   * Link
    * Fotos
 
 
@@ -82,7 +82,11 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
 
   A partir disto, você faz o filtro de qual cidade irá análisar, de forma que o próprio internauta faça esse filtra, visto que, aparecem as três cidades na página. A partir disso é apenas escolher o local a qual se deseja verificar maiores informações.
 
-
+ Caso o usuário escolha filtrar sua pesquisa por categoria após ter selecionado uma cidade ele receberá uma filtragem específica com os locais de interesse da determinada cidade e categoria.
+ 
+ <img src="https://i.ibb.co/7jwCpzk/Screenshot-from-2022-06-19-15-32-16.png" border="0">
+ 
+ 
 #### Mirante do Mangabeiras
   Esta é a pagina final desta sequência de filtros realizados pelo internauta. Você encontrará informações mais detalhadas sobre o local escolhido.
 
