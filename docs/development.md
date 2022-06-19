@@ -56,7 +56,7 @@ Neste documento estão descritos os artefatos e estrutura de dados criados para 
 
 
 ## Categorias
-  Ao ser direcionado a página de categorias, a partir do menu inicial, o internauta encontrará todas as categorias de locais das cidades a qual o site propõe disponibilizar.
+  Ao ser direcionado a página de categorias, a partir do menu inicial, o usuário encontrará todas as categorias de locais das cidades a qual o site propõe disponibilizar.
 
  ![menu categorias](img/menucategorias.png)
 
