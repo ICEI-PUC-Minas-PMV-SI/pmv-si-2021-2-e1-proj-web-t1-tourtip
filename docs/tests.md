@@ -82,20 +82,20 @@ Não foram registrados nenhum tipo bugs nos testes funcionais do sistema.
 |T-001| 1 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-001| 2 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-001| 3 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-001| 4 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-001| 5 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
+|T-001| 4 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM | 33,07seg | 5 |
+|T-001| 5 | Encontrar dicas de restaurantes e Bares em Belo Horizonte com os horários de Funcionamento. | SIM | 15,24seg | 5 |
 |T-002| 1 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-002| 2 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-002| 3 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-002| 4 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-002| 5 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
+|T-002| 4 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM | 31,73seg | 5 |
+|T-002| 5 | Encontrar pontos turísticos em Betim com os horários de Funcionamento. | SIM | 11,35seg | 5 |
 |T-003| 1 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-003| 2 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
 |T-003| 3 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-003| 4 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
-|T-003| 5 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM / NÃO | 1:30min | 5 |
+|T-003| 4 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | SIM | 2,20min | 3 |
+|T-003| 5 | Encontrar museus e restaurantes em Contagem com os horários de Funcionamento. | NÃO | 51,53seg | 3 |
 |T-004| 1 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | SIM / NÃO | 1:30min | 5 |
 |T-004| 2 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | SIM / NÃO | 1:30min | 5 |
 |T-004| 3 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | SIM / NÃO | 1:30min | 5 |
-|T-004| 4 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | SIM / NÃO | 1:30min | 5 |
-|T-004| 5 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | SIM / NÃO | 1:30min | 5 |
+|T-004| 4 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | NÃO | 1,47min | 2 |
+|T-004| 5 | Encontrar informações de cinemas em Belo Horizonte, Contagem  e Betim. | NÃO | 1,40min | 2 |
